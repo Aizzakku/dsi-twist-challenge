@@ -1,0 +1,1063 @@
+id,location,bathrooms,bedrooms,parking,size,agent,price
+1,Vredehoek,2.0,4.0,3.0,373,"Kapstadt International Properties cc, Gardens",6 995 000
+2,Newlands,3.0,3.0,2.0,582,Greeff Christie's International Real Estate - Southern Suburbs,7 300 000
+3,Fresnaye,4.0,5.0,2.0,445,Lance Real Estate,15 950 000
+4,Kenilworth Upper,5.0,5.0,3.0,826,Seeff Southern Suburbs,7 950 000
+5,Vredehoek,7.0,7.0,5.0,,Sotheby's International Realty - Atlantic Seaboard & City Bowl,7 400 000
+6,Fresnaye,4.0,5.0,2.0,445,Lance Real Estate,15 950 000
+7,Camps Bay,1.0,3.0,2.0,765,Pam Golding Properties - Camps Bay,8 950 000
+8,Pinelands,2.0,3.0,2.0,741,Pam Golding Properties - Southern Suburbs,4 295 000
+9,Wynberg,3.0,4.0,,,Icon Property Group,2 500 000
+10,Kenilworth Upper,2.0,4.0,4.0,1291,Pam Golding Properties - Southern Suburbs,6 995 000
+11,Rondebosch,1.0,1.0,,,,2 200 000
+12,Harfield Village,1.0,2.0,2.0,239,Knight Frank,2 550 000
+13,Rondebosch,2.5,4.0,6.0,1022,Tyson Properties Southern Suburbs,7 450 000
+14,Kenilworth Upper,4.0,4.0,3.0,860,Greeff Christie's International Real Estate - Southern Suburbs,16 250 000
+15,Rondebosch,2.0,3.0,,240,Leadhome,3 650 000
+16,Observatory,2.0,3.0,2.0,378,Tyson Properties Atlantic Seaboard,3 650 000
+17,Woodstock,2.0,3.0,,171,RE/MAX Living,2 650 000
+18,Sea Point,3.0,3.0,1.0,269,Chas Everitt Atlantic Seaboard and City Bowl,8 500 000
+19,Observatory,1.0,2.0,,129,RE/MAX Living,1 895 000
+20,Camps Bay,3.0,4.0,2.0,,RE/MAX Living,13 950 000
+21,Green Point,2.0,3.0,,258,The Cape Town Real Estate Company,6 500 000
+22,Plumstead,1.0,2.0,3.0,495,Pam Golding Properties - Southern Suburbs,2 195 000
+23,Plumstead,2.0,4.0,5.0,545,Chas Everitt Cape Town South,3 000 000
+24,Muizenberg,2.0,3.0,1.0,200,Property.CoZa - Southern Peninsula,1 275 000
+25,Camps Bay,2.0,3.0,1.0,833,RE/MAX Living,11 750 000
+26,Fresnaye,5.0,6.0,5.0,,Dogon Group Sea Point - Head Office,19 950 000
+27,Claremont,2.0,3.0,4.0,459,Greeff Christie's International Real Estate - Southern Suburbs,3 295 000
+28,Constantia,3.5,3.0,4.0,1088,Greeff Christie's International Real Estate - Southern Suburbs,5 900 000
+29,Camps Bay,4.0,4.0,3.0,682,Engel & Volkers Camps Bay,25 000 000
+30,Bakoven,3.0,3.0,4.0,257,Harcourts Atlantic,24 900 000
+31,Marina Da Gama,2.5,3.0,2.0,300,Engel & Volkers False Bay,2 800 000
+32,Camps Bay,6.0,6.0,4.0,1342,Seeff Camps Bay - Sales,28 000 000
+33,Pelican Park,1.0,2.0,,83,Law24,395 000
+34,Constantia,3.5,3.0,4.0,1088,Greeff Christie's International Real Estate - Southern Suburbs,5 900 000
+35,Claremont Upper,2.0,3.0,2.0,536,Seeff Southern Suburbs,6 795 000
+36,Constantia,2.5,3.0,2.0,257,Blue Chip Properties,9 750 000
+37,Lakeside,18.0,16.0,2.0,929,Keller Williams Eden,9 900 000
+38,Newlands,3.5,4.0,4.0,620,Tyson Properties Southern Suburbs,9 600 000
+39,Plumstead,2.0,3.0,1.0,495,Jawitz Constantia,2 495 000
+40,Green Point,4.0,5.0,2.0,537,Pam Golding Properties - Atlantic Seaboard,7 950 000
+41,Manenberg,,,,,Dawn Properties,495 000
+42,Constantia,4.5,4.0,2.0,641,Greeff Christie's International Real Estate - Southern Suburbs,13 995 000
+43,Camps Bay,2.5,4.0,6.0,934,Chas Everitt Atlantic Seaboard and City Bowl,14 000 000
+44,Camps Bay,3.5,4.0,2.0,1607,Dogon Group Sea Point - Head Office,29 950 000
+45,Silvertree Estate,3.0,4.0,2.0,604,Sotheby's International Realty - Tokai,9 350 000
+46,Camps Bay,2.5,4.0,6.0,934,Chas Everitt Atlantic Seaboard and City Bowl,14 000 000
+47,Camps Bay,4.0,4.0,2.0,1493,Engel & Volkers Camps Bay,23 950 000
+48,Camps Bay,4.5,3.0,4.0,792,Jawitz Atlantic Seaboard,13 975 000
+49,Woodstock,2.0,6.0,,366,REDZ etc,3 495 000
+50,Camps Bay,2.0,3.0,2.0,1255,Pam Golding Properties - Camps Bay,28 995 000
+51,Belgravia,2.0,3.0,1.0,260,Omega Real Estate,1 550 000
+52,Llandudno,2.0,3.0,2.0,571,"Kapstadt International Properties cc, Gardens",12 000 000
+53,Camps Bay,3.5,4.0,2.0,1165,Jawitz Atlantic Seaboard,16 990 000
+54,Green Point,2.5,2.0,2.0,145,"Kapstadt International Properties cc, Gardens",6 500 000
+55,Camps Bay,5.0,6.0,4.0,966,Seeff Camps Bay - Sales,18 995 000
+56,Constantia,4.0,5.0,3.0,4215,Pam Golding Properties - Southern Suburbs,43 500 000
+57,Pinelands,3.0,5.0,4.0,797,"RE/MAX, Property Associates - Pinelands",3 199 000
+58,Higgovale,6.5,5.0,2.0,1488,RE/MAX Living,29 900 000
+59,Plumstead,2.0,3.0,2.0,496,Latsky Properties,2 595 000
+60,Claremont,3.0,5.0,3.0,455,Heads Residential Property,2 750 000
+61,Llandudno,5.5,5.0,5.0,991,Dogon Group Sea Point - Head Office,44 000 000
+62,Constantia,3.0,4.0,2.0,4020,Sotheby's International Realty - Tokai,8 950 000
+63,Pinelands,6.0,8.0,,1292,"RE/MAX, Property Associates - Pinelands",6 500 000
+64,Camps Bay,3.0,3.0,4.0,645,Seeff Camps Bay - Sales,8 995 000
+65,Newlands,3.0,3.0,2.0,,Upton Properties Newlands,6 995 000
+66,Bergvliet,2.0,3.0,3.0,571,Chas Everitt Cape Town South,3 295 000
+67,Constantia,2.5,5.0,12.0,2981,Blue Chip Properties,8 950 000
+68,Newlands,2.0,3.0,2.0,744,Pam Sorel Properties,6 950 000
+69,Camps Bay,6.0,6.0,2.0,1413,RE/MAX Living,10 950 000
+70,Plumstead,3.0,4.0,2.0,700,Chas Everitt Cape Town South,3 395 000
+71,Pelican Park,1.0,3.0,,,,599 000
+72,Camps Bay,5.0,4.0,3.0,,BUYBNB,11 500 000
+73,Camps Bay,3.0,3.0,2.0,443,RE/MAX Living,12 500 000
+74,Tokai,3.5,3.0,4.0,250,Sale,5 450 000
+75,Kenilworth Upper,3.0,4.0,3.0,465,Seeff Southern Suburbs,4 395 000
+76,Constantia,3.5,4.0,4.0,1006,Blue Chip Properties,4 950 000
+77,Llandudno,4.0,4.0,2.0,1090,Atteridge Real Estate,23 000 000
+78,Camps Bay,3.0,5.0,1.0,402,Tyson Properties Atlantic Seaboard,9 900 000
+79,Tamboerskloof,2.0,3.0,1.0,397,Pam Golding Properties - City Bowl,8 000 000
+80,Kalk Bay,3.0,5.0,2.0,462,Engel & Volkers False Bay,8 950 000
+81,Three Anchor Bay,2.0,3.0,1.0,270,Pam Golding Properties - Atlantic Seaboard,8 999 000
+82,Bantry Bay,8.0,6.0,3.0,597,Pam Golding Properties - Atlantic Seaboard,68 000 000
+83,Kenilworth Upper,3.0,4.0,3.0,465,Seeff Southern Suburbs,4 395 000
+84,Rondebosch,4.0,4.0,5.0,1035,Pam Golding Properties - Southern Suburbs,5 950 000
+85,Tokai,3.0,3.0,2.0,,Jawitz Constantia,6 690 000
+86,Kenilworth Upper,4.0,4.0,7.0,1183,Seeff Southern Suburbs,12 500 000
+87,Pinelands,4.0,6.0,2.0,805,Sotheby's International Realty - Claremont,4 450 000
+88,Sybrand Park,2.0,3.0,1.0,659,Rawson Properties Rawson Auctions Western Cape,2 500 000
+89,Camps Bay,3.5,3.0,6.0,1088,Knight Frank,13 500 000
+90,Newlands,3.5,4.0,2.0,625,"RE/MAX, Premier - Claremont",6 500 000
+91,Marina Da Gama,1.0,2.0,1.0,174,Engel & Volkers False Bay,1 650 000
+92,Claremont Upper,2.0,2.0,3.0,419,Seeff Southern Suburbs,3 785 000
+93,Fresnaye,5.0,5.0,4.0,629,Dogon Group Sea Point - Head Office,59 000 000
+94,Oranjezicht,11.0,6.0,10.0,1801,Seeff City Bowl/Tamboerskloof - Sales,29 750 000
+95,Llandudno,2.0,3.0,,571,Atteridge Real Estate,12 000 000
+96,St James,4.0,4.0,4.0,406,Harcourts Maynard Burgoyne,6 950 000
+97,Walmer Estate,2.0,5.0,,308,Pam Golding Properties - Southern Suburbs,3 700 000
+98,Camps Bay,5.0,5.0,2.0,583,Seeff Camps Bay - Sales,20 995 000
+99,Woodstock,1.0,3.0,,118,Tyson Properties Atlantic Seaboard,2 250 000
+100,Rondebosch,3.0,4.0,3.0,679,Pam Golding Properties - Southern Suburbs,3 995 000
+101,Kenilworth Upper,2.0,4.0,4.0,684,Seeff Southern Suburbs,6 995 000
+102,Kenilworth Upper,1.0,3.0,2.0,372,Pam Golding Properties - Southern Suburbs,4 900 000
+103,Meadowridge,3.5,4.0,6.0,998,Lola Kramer Properties,3 799 000
+104,Fresnaye,5.0,5.0,4.0,629,Dogon Group Sea Point - Head Office,59 000 000
+105,Green Point,2.0,2.0,2.0,273,Seeff Sea Point - Sales,6 750 000
+106,Constantia,3.5,4.0,3.0,3999,Pam Golding Properties - Southern Suburbs,10 000 000
+107,Constantia,5.5,6.0,3.0,8094,Greeff Christie's International Real Estate - Southern Suburbs,27 500 000
+108,Ottery,2.0,3.0,1.0,196,Pam Golding Properties - South Eastern Suburbs,1 700 000
+109,Claremont Upper,4.0,5.0,5.0,1013,Pam Golding Properties - Southern Suburbs,15 950 000
+110,Constantia,3.0,3.0,2.0,4050,Greeff Christie's International Real Estate - Southern Suburbs,9 500 000
+111,Constantia,2.0,3.0,2.0,408,Chas Everitt Cape Town South,5 750 000
+112,Woodstock,1.0,2.0,,,RE/MAX Living,2 995 000
+113,Thornton,2.0,3.0,,595,Seeff Pinelands,2 300 000
+114,Woodstock,1.0,3.0,1.0,186,Evolution Properties,1 595 000
+115,Claremont,3.0,3.0,2.0,469,"RE/MAX, Premier - Claremont",3 350 000
+116,Kalk Bay,3.0,3.0,2.0,500,Engel & Volkers False Bay,7 950 000
+117,Bantry Bay,4.5,4.0,2.0,948,Lance Real Estate,35 000 000
+118,Kalk Bay,3.0,3.0,2.0,500,Engel & Volkers False Bay,7 950 000
+119,Rondebosch,3.5,4.0,3.0,648,Tyson Properties Southern Suburbs,6 450 000
+120,Claremont Upper,3.0,4.0,4.0,714,Greeff Christie's International Real Estate - Southern Suburbs,10 220 000
+121,Newlands,2.0,3.0,2.0,635,"RE/MAX, Premier - Claremont",3 850 000
+122,Oranjezicht,2.5,4.0,,267,Live Real Estate,5 850 000
+123,Newlands,2.5,3.0,2.0,,Jawitz Constantia,7 500 000
+124,Diep River,2.0,3.0,1.0,179,Constantia Valley Estates,1 999 000
+125,Claremont Upper,2.5,3.0,6.0,541,Seeff Southern Suburbs,7 749 000
+126,Bantry Bay,3.0,3.0,2.0,320,RE/MAX Living,8 950 000
+127,Heideveld,1.0,2.0,2.0,,Lunardini Estates,549 000
+128,Woodstock,2.0,3.0,,177,RE/MAX Living,2 000 000
+129,Claremont,3.0,6.0,2.0,492,Seeff Southern Suburbs,4 100 000
+130,Marina Da Gama,5.0,5.0,2.0,774,Engel & Volkers False Bay,3 990 000
+131,Zeekoevlei,2.0,3.0,2.0,,RE/MAX Impact,1 790 000
+132,Lakeside,2.0,3.0,8.0,628,Asher Properties,2 795 000
+133,Sea Point,4.5,4.0,2.0,798,Pam Golding Properties - Atlantic Seaboard,10 995 000
+134,Sea Point,6.0,6.0,2.0,,Soukop Property Group - Sea Point,11 500 000
+135,Observatory,1.0,3.0,2.0,190,RE/MAX Living,2 380 000
+136,Sea Point,4.0,4.0,1.0,,Jawitz Atlantic Seaboard,5 690 000
+137,Observatory,3.0,4.0,2.0,511,Erf Size,3 900 000
+138,Sea Point,6.0,6.0,2.0,,Soukop Property Group - Sea Point,11 500 000
+139,Kenilworth,1.0,3.0,1.0,317,Pam Golding Properties - Southern Suburbs,2 400 000
+140,Newlands,4.0,4.0,4.0,622,Erf Size,5 500 000
+141,Claremont,2.0,3.0,4.0,487,Seeff Southern Suburbs,3 495 000
+142,Camps Bay,4.0,4.0,4.0,1062,RE/MAX Living,26 000 000
+143,Clifton,5.5,5.0,4.0,940,Dogon Group Sea Point - Head Office,172 500 000
+144,Constantia,2.0,3.0,4.0,1130,Pam Golding Properties - Southern Suburbs,4 200 000
+145,Constantia,2.5,3.0,3.0,231,Pam Golding Properties - Southern Suburbs,3 995 000
+146,Rondebosch,3.0,4.0,1.0,707,RE/MAX Living,4 950 000
+147,Pinelands,4.0,5.0,7.0,1128,Harcourts Maynard Burgoyne,6 400 000
+148,Oranjezicht,2.0,4.0,5.0,713,"Kapstadt International Properties cc, Gardens",10 900 000
+149,Nyanga,1.0,2.0,,,,450 000
+150,Claremont Upper,5.0,4.0,3.0,1835,Rawson Properties Constantia,11 995 000
+151,Muizenberg,8.0,8.0,,494,Glendyr Dade Properties,5 500 000
+152,Wynberg,2.0,4.0,,591,RE/MAX In Motion (Mitchells Plain),3 500 000
+153,Stonehurst Mountain Estate,2.5,4.0,4.0,512,Seeff False Bay - Muizenberg,6 150 000
+154,Observatory,4.0,7.0,5.0,266,Rose Eedes Properties,4 395 000
+155,Newlands,2.0,4.0,2.0,664,Dogon Group Southern Suburbs,4 600 000
+156,Bo Kaap,1.5,3.0,,121,RE/MAX Living,2 650 000
+157,Oranjezicht,2.0,2.0,2.0,510,RE/MAX Living,12 995 000
+158,Three Anchor Bay,4.0,4.0,2.0,443,Pam Golding Properties - Atlantic Seaboard,7 800 000
+159,Camps Bay,4.5,4.0,2.0,887,Pam Golding Properties - Camps Bay,29 995 000
+160,Constantia,3.0,4.0,2.0,1621,Sotheby's International Realty - Tokai,4 500 000
+161,Rondebosch,3.0,4.0,7.0,1350,Seeff Southern Suburbs,7 150 000
+162,Athlone,5.0,6.0,2.0,496,Robshaw Property Group,3 750 000
+163,Muizenberg,8.0,8.0,,494,Glendyr Dade Properties,5 500 000
+164,Higgovale,6.0,6.0,4.0,1363,RE/MAX Living,20 800 000
+165,Vanguard,2.0,4.0,5.0,494,Omega Real Estate,1 600 000
+166,Woodstock,1.0,4.0,,,RealNet KuilsRiver & Eersterivier,3 475 000
+167,Camps Bay,4.0,5.0,2.0,757,RE/MAX Living,13 900 000
+168,Bishopscourt,4.0,5.0,2.0,2400,Fine & Country - Associates,11 800 000
+169,Camps Bay,5.5,5.0,4.0,694,Pam Golding Properties - Camps Bay,29 000 000
+170,Oranjezicht,3.0,4.0,,389,RE/MAX Living,8 900 000
+171,Sea Point,3.5,3.0,2.0,210,Seeff Sea Point - Sales,7 800 000
+172,Constantia,5.0,5.0,4.0,1508,Pam Golding Properties - Southern Suburbs,10 950 000
+173,Constantia,2.5,3.0,4.0,698,Jawitz Constantia,3 795 000
+174,Vredehoek,2.0,3.0,1.0,,Jawitz Atlantic Seaboard,5 500 000
+175,Higgovale,2.0,2.0,2.0,213,Jawitz Atlantic Seaboard,5 995 000
+176,Claremont Upper,3.5,5.0,6.0,725,Seeff Southern Suburbs,10 250 000
+177,Higgovale,2.0,2.0,2.0,213,Jawitz Atlantic Seaboard,5 995 000
+178,Gardens,1.0,2.0,1.0,183,Pam Golding Properties - City Bowl,5 250 000
+179,Constantia,6.0,6.0,5.0,4035,Jawitz Constantia,29 000 000
+180,Green Point,3.5,4.0,1.0,140,Pam Golding Properties - Atlantic Seaboard,6 400 000
+181,Oranjezicht,5.0,4.0,1.0,561,Interealty,6 995 000
+182,St James,3.0,4.0,4.0,550,Pam Golding Properties - Southern Peninsula,10 800 000
+183,Tamboerskloof,2.0,4.0,2.0,400,"Kapstadt International Properties cc, Gardens",6 995 000
+184,Constantia,5.0,5.0,3.0,2112,Jawitz Constantia,10 850 000
+185,Fresnaye,3.0,4.0,4.0,401,Pam Golding Properties - Atlantic Seaboard,11 950 000
+186,Fresnaye,16.0,15.0,10.0,1075,Engel & Volkers Atlantic Seaboard & City Bowl,29 900 000
+187,Crawford,3.0,3.0,7.0,546,Pam Golding Properties - Goodwood / Athlone / Belhar,4 450 000
+188,Tamboerskloof,5.0,4.0,4.0,,RE/MAX Living,26 500 000
+189,Bergvliet,2.0,3.0,4.0,426,Pam Golding Properties - Southern Suburbs,3 750 000
+190,Observatory,1.0,2.0,,118,RE/MAX Living,2 135 000
+191,Gardens,2.0,2.0,2.0,156,"Kapstadt International Properties cc, Gardens",2 990 000
+192,Sea Point,2.5,2.0,1.0,200,Dogon Group Sea Point - Head Office,6 999 000
+193,Sea Point,2.5,2.0,1.0,200,Dogon Group Sea Point - Head Office,6 999 000
+194,Ocean View,4.0,5.0,2.0,364,Chas Everitt Cape Town South,1 195 000
+195,Bantry Bay,1.5,3.0,,172,Jawitz Atlantic Seaboard,4 250 000
+196,Woodstock,2.0,3.0,2.0,148,Pam Golding Properties - Southern Suburbs,3 295 000
+197,Observatory,2.0,1.0,1.0,272,Cleverprop.Com,3 250 000
+198,Plumstead,2.0,4.0,7.0,,Sotheby's International Realty - Claremont,2 825 000
+199,Camps Bay,3.5,3.0,4.0,,Dogon Group Sea Point - Head Office,29 999 000
+200,Bishopscourt,8.0,12.0,13.0,4262,Erf Size,21 000 000
+201,Tamboerskloof,4.0,5.0,4.0,,"Greeff Christie's International Real Estate - City Bowl, Atlantic & Western Seaboard",12 500 000
+202,Constantia,5.5,5.0,15.0,9042,Greeff Christie's International Real Estate - Southern Suburbs,49 000 000
+203,Seawinds,1.0,3.0,2.0,240,Theron Property Group,799 000
+204,Bantry Bay,3.5,4.0,4.0,200,Jawitz Atlantic Seaboard,14 950 000
+205,Mowbray,1.0,3.0,7.0,598,ERA Northern Suburbs,2 995 000
+206,Vredehoek,2.0,3.0,2.0,262,Erf Size,6 950 000
+207,Constantia,4.0,4.0,3.0,2135,Pam Golding Properties - Southern Suburbs,9 900 000
+208,Constantia,9.0,11.0,2.0,13822,Sotheby's International Realty - Tokai,45 000 000
+209,Kensington,2.0,3.0,1.0,267,Sale,1 400 000
+210,Camps Bay,5.5,5.0,3.0,496,Pam Golding Properties - Camps Bay,29 995 000
+211,Wynberg,3.0,6.0,1.0,,Momentum International Realty - Central,2 490 000
+212,Sea Point,5.0,5.0,,372,RE/MAX Living,6 495 000
+213,Newlands,3.0,4.0,4.0,496,Knight Frank,12 950 000
+214,Rondebosch,3.0,7.0,4.0,403,Pam Golding Properties - Southern Suburbs,4 850 000
+215,Claremont,2.0,3.0,4.0,363,Knight Frank,4 200 000
+216,Fresnaye,3.0,3.0,5.0,1250,Engel & Volkers Atlantic Seaboard & City Bowl,14 900 000
+217,Newlands,3.0,4.0,4.0,496,Knight Frank,12 950 000
+218,Woodstock,1.0,2.0,,157,"LRE Group, Rondebosch",1 950 000
+219,Constantia,5.0,5.0,4.0,2001,Seeff Southern Suburbs,11 900 000
+220,Woodstock,1.0,3.0,2.0,401,Harcourts Maynard Burgoyne,3 650 000
+221,Maitland,8.0,8.0,2.0,486,Eazi Real Estate,3 490 000
+222,Camps Bay,3.0,3.0,2.0,595,Dogon Group Sea Point - Head Office,27 000 000
+223,Stonehurst Mountain Estate,3.0,4.0,3.0,1029,Sotheby's International Realty - Tokai,13 995 000
+224,Camps Bay,2.0,4.0,1.0,894,RE/MAX Living,14 900 000
+225,Claremont,5.0,7.0,2.0,1130,Sale,7 500 000
+226,Rondebosch East,1.5,4.0,4.0,504,Pam Golding Properties - Southern Suburbs,2 750 000
+227,Walmer Estate,1.5,5.0,,401,Chas Everitt Atlantic Seaboard and City Bowl,3 450 000
+228,Observatory,1.0,4.0,4.0,412,Pam Golding Properties - Southern Suburbs,3 895 000
+229,Clifton,3.0,4.0,5.0,465,Dogon Group Sea Point - Head Office,59 950 000
+230,Plumstead,1.0,3.0,3.0,500,Momentum International Realty - Central,2 595 000
+231,Constantia,4.0,4.0,2.0,1443,Pam Golding Properties - Southern Suburbs,12 750 000
+232,Camps Bay,4.0,4.0,2.0,735,Seeff Camps Bay - Sales,13 950 000
+233,Claremont Upper,3.5,4.0,3.0,,Sotheby's International Realty - Claremont,14 900 000
+234,Camps Bay,7.0,7.0,4.0,1126,Tyson Properties Atlantic Seaboard,19 995 000
+235,Camps Bay,3.0,4.0,2.0,602,RE/MAX Living,16 750 000
+236,De Waterkant,2.0,2.0,,,"Leapfrog, City Bowl",9 500 000
+237,Sea Point,2.5,3.0,4.0,294,Pam Golding Properties - Atlantic Seaboard,5 950 000
+238,Constantia,7.0,8.0,15.0,4000,Jawitz Constantia,36 000 000
+239,Camps Bay,6.5,6.0,4.0,757,Seeff Camps Bay - Sales,27 995 000
+240,Clifton,2.0,3.0,,178,Lance Real Estate,17 500 000
+241,Bantry Bay,2.5,2.0,1.0,,The Agency Property Group,10 500 000
+242,Camps Bay,7.0,8.0,6.0,811,Seeff Camps Bay - Sales,25 000 000
+243,Sea Point,2.0,3.0,1.0,179,Pam Golding Properties - Atlantic Seaboard,4 500 000
+244,Camps Bay,2.5,4.0,2.0,866,Marion Taylor Properties,14 750 000
+245,Bishopscourt,4.0,6.0,8.0,3501,Seeff Southern Suburbs,12 900 000
+246,Constantia,4.5,4.0,5.0,10109,Pam Golding Properties - Southern Suburbs,36 000 000
+247,Clifton,3.0,3.0,,371,Engel & Volkers Camps Bay,39 000 000
+248,Claremont Upper,1.0,2.0,2.0,190,Greeff Christie's International Real Estate - Southern Suburbs,3 950 000
+249,Llandudno,4.0,4.0,2.0,1502,Cape Waterfront Estates,36 000 000
+250,Plumstead,2.0,3.0,2.0,495,Heads Residential Property,2 085 000
+251,Tokai,1.0,2.0,3.0,439,The Agency Property Group,6 000 000
+252,Constantia,4.5,4.0,5.0,10109,Pam Golding Properties - Southern Suburbs,36 000 000
+253,Constantia,3.0,4.0,2.0,1170,Jawitz Constantia,8 900 000
+254,Rondebosch,4.5,5.0,5.0,1022,"RE/MAX, Premier - Claremont",8 500 000
+255,Lavender Hill,1.0,2.0,,,,379 000
+256,Bo Kaap,3.0,5.0,2.0,439,RE/MAX Living,5 100 000
+257,Bishopscourt,3.0,4.0,3.0,4240,Greeff Christie's International Real Estate - Southern Suburbs,14 350 000
+258,Camps Bay,5.0,4.0,2.0,998,Pam Golding Properties - Camps Bay,29 500 000
+259,Camps Bay,3.0,4.0,2.0,790,Pam Golding Properties - Camps Bay,11 500 000
+260,Bishop Lavis,1.0,2.0,,144,Icon Property Group,699 000
+261,Camps Bay,5.5,5.0,5.0,852,Seeff Camps Bay - Sales,25 950 000
+262,Thornton,4.0,5.0,5.0,595,Property Alliance,2 195 000
+263,Muizenberg,2.0,3.0,,206,Glendyr Dade Properties,2 000 000
+264,Claremont Upper,3.0,2.0,1.0,,Sotheby's International Realty - Claremont,5 800 000
+265,Claremont,2.0,4.0,1.0,456,Keller Williams Explore Properties,3 550 000
+266,Kenilworth,1.0,3.0,2.0,365,RE/MAX Elite,2 895 000
+267,Newlands,3.0,4.0,1.0,619,Sotheby's International Realty - Claremont,5 490 000
+268,Camps Bay,2.0,4.0,4.0,595,Knight Frank,12 999 000
+269,Observatory,2.0,4.0,,295,Sharon Ball Properties,3 230 000
+270,Bishop Lavis,1.0,2.0,,144,Icon Property Group,699 000
+271,Wynberg Upper,2.5,4.0,4.0,411,Seeff Southern Suburbs,4 950 000
+272,Bergvliet,3.0,4.0,4.0,493,Pam Golding Properties - Southern Suburbs,3 250 000
+273,Newlands,2.0,3.0,2.0,361,Pam Golding Properties - Southern Suburbs,5 200 000
+274,Claremont Upper,5.0,5.0,4.0,769,Dogon Group Southern Suburbs,16 500 000
+275,Fresnaye,6.0,4.0,7.0,510,Seeff Sea Point - Sales,41 500 000
+276,Clifton,5.0,5.0,2.0,,Pam Golding Properties - Atlantic Seaboard,28 000 000
+277,Camps Bay,3.5,4.0,2.0,771,Marion Taylor Properties,10 900 000
+278,Kenilworth Upper,4.0,4.0,6.0,1298,Pam Golding Properties - Southern Suburbs,14 900 000
+279,Pinelands,3.0,5.0,5.0,1031,Harcourts Maynard Burgoyne,5 950 000
+280,Camps Bay,3.0,3.0,4.0,,Dogon Group Sea Point - Head Office,24 999 000
+281,Meadowridge,2.0,3.0,4.0,800,Pam Golding Properties - Southern Suburbs,3 790 000
+282,Vredehoek,2.0,4.0,3.0,706,Seeff City Bowl/Tamboerskloof - Sales,9 450 000
+283,Kenilworth,3.0,3.0,5.0,740,Pam Golding Properties - Southern Suburbs,2 650 000
+284,Kalk Bay,4.0,4.0,1.0,560,Engel & Volkers False Bay,6 950 000
+285,Claremont Upper,4.5,4.0,2.0,496,Greeff Christie's International Real Estate - Southern Suburbs,7 999 000
+286,Constantia,2.0,3.0,2.0,330,"RE/MAX, Premier - Claremont",4 495 000
+287,Zeekoevlei,1.0,4.0,4.0,635,RE/MAX Elite,3 500 000
+288,Woodstock,1.5,3.0,2.0,,SAPROPERTY.COM - Cape Town,2 200 000
+289,Kenilworth Upper,2.5,3.0,4.0,313,Dogon Group Southern Suburbs,4 400 000
+290,Fresnaye,30.0,30.0,14.0,2800,Engel & Volkers Atlantic Seaboard & City Bowl,64 700 000
+291,Camps Bay,4.5,4.0,2.0,761,Seeff Camps Bay - Sales,15 950 000
+292,Rondebosch,2.0,4.0,,357,Seeff Southern Suburbs,4 200 000
+293,Clifton,5.0,5.0,2.0,,Pam Golding Properties - Atlantic Seaboard,28 000 000
+294,Newlands,2.0,2.0,1.0,181,Brooks and Michaels,4 850 000
+295,Rondebosch,3.5,3.0,2.0,301,Rawson Properties Rawson Developers,7 250 000
+296,Camps Bay,5.5,5.0,4.0,486,Chas Everitt Atlantic Seaboard and City Bowl,29 995 000
+297,Constantia,4.5,4.0,6.0,1488,Pam Golding Properties - Southern Suburbs,13 995 000
+298,Bishopscourt,3.5,5.0,4.0,3645,Greeff Christie's International Real Estate - Southern Suburbs,13 450 000
+299,Camps Bay,3.5,5.0,2.0,903,Seeff Camps Bay - Sales,13 950 000
+300,Muizenberg,2.0,3.0,2.0,543,Pam Golding Properties - Muizenberg,2 380 000
+301,Camps Bay,1.0,3.0,1.0,765,Signature Real Estate,8 950 000
+302,Camps Bay,4.0,5.0,2.0,969,RE/MAX Living,19 995 000
+303,Constantia,3.0,3.0,2.0,776,Engel & Volkers False Bay,13 995 000
+304,Kenilworth Upper,5.0,5.0,4.0,1059,Pam Golding Properties - Southern Suburbs,16 900 000
+305,Bergvliet,4.0,4.0,4.0,1071,Chas Everitt Cape Town South,3 995 000
+306,Higgovale,1.0,5.0,3.0,,Omega Real Estate,19 000 000
+307,Pelican Heights,3.0,4.0,2.0,980,Momentum International Realty - Central,2 850 000
+308,Woodstock,1.0,2.0,,86,Property Alliance,1 995 000
+309,Muizenberg,2.0,3.0,1.0,,RE/MAX Elite,1 450 000
+310,Camps Bay,4.0,6.0,3.0,596,RE/MAX Living,19 950 000
+311,Camps Bay,2.0,4.0,1.0,996,RE/MAX Living,14 950 000
+312,Bakoven,4.5,4.0,2.0,486,Pam Golding Properties - Camps Bay,29 995 000
+313,Gardens,2.0,2.0,1.0,226,Pam Golding Properties - City Bowl,4 594 000
+314,Muizenberg,2.0,3.0,1.0,,RE/MAX Elite,1 450 000
+315,Camps Bay,,,,,RE/MAX Living,9 995 000
+316,Constantia,7.0,7.0,4.0,4244,Keller Williams Eden,29 000 000
+317,Stonehurst Mountain Estate,3.0,4.0,5.0,1086,Seeff False Bay - Muizenberg,9 950 000
+318,Camps Bay,2.5,4.0,2.0,,Engel & Volkers Camps Bay,15 900 000
+319,Camps Bay,2.0,4.0,2.0,1750,RE/MAX Living,18 950 000
+320,Tamboerskloof,4.0,4.0,2.0,600,RE/MAX Living,19 000 000
+321,Devils Peak Estate,2.5,7.0,10.0,835,Trust Property,7 399 000
+322,Pelican Park,2.0,3.0,4.0,,"RE/MAX, Property Associates - Pinelands",1 395 000
+323,Camps Bay,4.5,5.0,3.0,670,Sale,65 000 000
+324,Constantia,2.0,3.0,2.0,356,Chas Everitt Cape Town South,5 800 000
+325,Green Point,2.0,4.0,1.0,1023,RE/MAX Living,10 750 000
+326,Vredehoek,4.0,7.0,4.0,700,"Kapstadt International Properties cc, Gardens",8 300 000
+327,Woodstock,1.0,2.0,,124,"Greeff Christie's International Real Estate - City Bowl, Atlantic & Western Seaboard",2 295 000
+328,Bishopscourt,4.0,4.0,4.0,3108,Greeff Christie's International Real Estate - Southern Suburbs,13 500 000
+329,Wynberg Upper,2.5,3.0,5.0,573,Pam Golding Properties - Southern Suburbs,4 395 000
+330,Fresnaye,4.0,4.0,3.0,442,Seeff Sea Point - Sales,12 950 000
+331,Wynberg Upper,2.5,3.0,5.0,573,Pam Golding Properties - Southern Suburbs,4 395 000
+332,Ottery,2.0,3.0,2.0,424,Realty Professionals,2 250 000
+333,Constantia,4.0,4.0,12.0,2236,Chas Everitt Cape Town South,10 900 000
+334,Steenberg Golf Estate,4.0,4.0,2.0,822,Sotheby's International Realty - Tokai,18 900 000
+335,Pinelands,3.0,4.0,7.0,793,Harcourts Maynard Burgoyne,4 975 000
+336,Claremont Upper,4.0,3.0,2.0,432,Sotheby's International Realty - Claremont,8 750 000
+337,Claremont Upper,5.0,5.0,8.0,1026,Pam Golding Properties - Southern Suburbs,10 400 000
+338,Fresnaye,3.0,4.0,4.0,520,Lance Real Estate,17 950 000
+339,Observatory,2.0,6.0,,215,RE/MAX Living,2 900 000
+340,Llandudno,3.0,4.0,2.0,991,Engel & Volkers Camps Bay,29 500 000
+341,Retreat,1.0,1.0,1.0,37,Omega Real Estate,539 000
+342,Newlands,2.0,4.0,3.0,991,Pam Golding Properties - Southern Suburbs,7 650 000
+343,Observatory,1.0,2.0,1.0,184,Sharon Ball Properties,2 250 000
+344,Constantia,2.0,4.0,2.0,2027,Rawson Properties Constantia,9 590 000
+345,Marina Da Gama,2.0,3.0,1.0,,RE/MAX Impact,1 995 000
+346,Marina Da Gama,2.0,3.0,1.0,,RE/MAX Impact,1 995 000
+347,Capricorn,1.0,2.0,2.0,195,Tyson Properties Southern Suburbs,1 295 000
+348,Philadelphia,2.0,3.0,2.0,360,Realtors International Durbanville (Leendert Hols),2 607 683
+349,Woodstock,1.0,2.0,,,"RE/MAX, Property Associates - Pinelands",1 575 000
+350,Penlyn Estate,2.0,3.0,2.0,497,Pam Golding Properties - Goodwood / Athlone / Belhar,3 500 000
+351,Claremont Upper,4.0,4.0,9.0,1501,Upton Properties Newlands,17 500 000
+352,Kenwyn,2.0,3.0,2.0,494,Momentum International Realty - Central,2 900 000
+353,Gardens,2.0,2.0,,107,Pam Golding Properties - City Bowl,5 195 000
+354,Ocean View,1.0,3.0,1.0,200,Chas Everitt Cape Town South,700 000
+355,Oranjezicht,4.0,5.0,,710,RE/MAX Living,19 000 000
+356,Constantia,4.0,4.0,3.0,4194,Jawitz Constantia,27 000 000
+357,De Waterkant,2.5,2.0,2.0,,Lionlead Real Estate,10 950 000
+358,Higgovale,4.5,4.0,3.0,903,RE/MAX Living,17 500 000
+359,Camps Bay,4.0,4.0,2.0,625,Engel & Volkers Camps Bay,16 500 000
+360,Plumstead,1.0,3.0,5.0,497,NDS Real Estate,2 795 000
+361,Rosebank,1.0,4.0,,273,Rawson Properties Atlantic,2 200 000
+362,Camps Bay,4.0,5.0,6.0,1068,Seeff Camps Bay - Sales,13 995 000
+363,Higgovale,4.0,5.0,3.0,1025,Jawitz Atlantic Seaboard,POA
+364,Higgovale,3.5,4.0,2.0,534,Seeff City Bowl/Tamboerskloof - Sales,11 250 000
+365,Stonehurst Mountain Estate,3.5,3.0,2.0,294,Seeff False Bay - Muizenberg,4 550 000
+366,Claremont Upper,2.0,3.0,4.0,213,Sotheby's International Realty - Claremont,4 650 000
+367,Marina Da Gama,3.0,3.0,2.0,482,Pam Golding Properties - Muizenberg,2 700 000
+368,Bantry Bay,3.0,5.0,2.0,,Live Real Estate,29 000 000
+369,Belhar,1.0,3.0,1.0,,We Trade Property - Northern Suburbs,1 300 000
+370,Marina Da Gama,3.0,4.0,2.0,401,Pam Golding Properties - Muizenberg,3 250 000
+371,Tamboerskloof,5.0,7.0,3.0,1900,RE/MAX Living,17 500 000
+372,Camps Bay,4.0,4.0,2.0,625,Engel & Volkers Camps Bay,16 500 000
+373,Constantia,4.0,4.0,2.0,650,Blue Chip Properties,12 995 000
+374,Lansdowne,3.0,5.0,4.0,446,Jawitz South East Suburbs,3 100 000
+375,Higgovale,3.0,3.0,2.0,803,RE/MAX Living,13 950 000
+376,Constantia,3.0,4.0,4.0,4103,Pam Golding Properties - Southern Suburbs,10 500 000
+377,Oranjezicht,3.0,4.0,1.0,496,Chas Everitt Atlantic Seaboard and City Bowl,11 500 000
+378,Tokai,2.0,4.0,3.0,1106,Sotheby's International Realty - Tokai,4 750 000
+379,Plumstead,2.5,3.0,4.0,744,Jawitz Constantia,3 395 000
+380,Oranjezicht,2.0,3.0,6.0,594,Pam Golding Properties - City Bowl,8 695 000
+381,Plumstead,2.0,3.0,5.0,495,Knight Frank,2 595 000
+382,Claremont Upper,3.0,4.0,2.0,858,Greeff Christie's International Real Estate - Southern Suburbs,6 450 000
+383,St James,2.0,4.0,,481,Engel & Volkers False Bay,9 500 000
+384,Fresnaye,3.5,3.0,4.0,301,Lance Real Estate,16 500 000
+385,Higgovale,5.0,7.0,10.0,1535,Pam Golding Properties - City Bowl,16 950 000
+386,Newlands,3.0,4.0,3.0,322,Keller Williams Eden,5 900 000
+387,Oranjezicht,2.0,3.0,6.0,594,Pam Golding Properties - City Bowl,8 695 000
+388,Constantia,3.0,5.0,5.0,1769,Sotheby's International Realty - Tokai,7 995 000
+389,Constantia,4.5,4.0,6.0,1350,Hamiltons Property Portfolio - Cape Town,14 990 000
+390,Kenilworth Upper,3.0,3.0,6.0,1085,Greeff Christie's International Real Estate - Southern Suburbs,7 795 000
+391,Camps Bay,5.5,6.0,5.0,837,Seeff Camps Bay - Sales,11 900 000
+392,Guguletu,1.0,2.0,,450,Sale,900 000
+393,Silvertree Estate,5.5,5.0,3.0,654,Dogon Group Southern Suburbs,9 995 000
+394,Rondebosch,5.0,7.0,6.0,1661,"RE/MAX, Premier - Claremont",13 500 000
+395,Marina Da Gama,2.0,3.0,2.0,581,Greeff Christie's International Real Estate - Southern Suburbs,2 850 000
+396,Woodstock,2.0,3.0,,127,RE/MAX Elite,1 580 000
+397,Observatory,1.0,4.0,,188,Pam Golding Properties - Southern Suburbs,1 995 000
+398,Westlake,2.0,2.0,1.0,130,Rose Eedes Properties,850 000
+399,Harfield Village,2.0,2.0,1.0,164,Sotheby's International Realty - Claremont,1 895 000
+400,Bishopscourt,2.5,3.0,5.0,3643,Blue Chip Properties,12 500 000
+401,Constantia,3.0,4.0,8.0,1353,Tyson Properties Southern Suburbs,6 390 000
+402,Zonnebloem,1.0,1.0,1.0,45,Erf Size,1 490 000
+403,Green Point,5.0,4.0,3.0,313,Tyson Properties Atlantic Seaboard,6 495 000
+404,Pinelands,1.0,3.0,1.0,654,Seeff Pinelands,2 900 000
+405,Maitland,3.0,6.0,3.0,350,Erf Size,1 570 000
+406,Kenilworth Upper,3.0,4.0,2.0,377,Keller Williams Eden,2 950 000
+407,Newlands,3.5,3.0,2.0,249,Jawitz Constantia,6 850 000
+408,Clarkes Estate,1.0,2.0,,,Icon Property Group,399 000
+409,Pinelands,1.0,3.0,1.0,744,Seeff Pinelands,3 050 000
+410,Belhar,1.0,4.0,,156,Erf Size,795 000
+411,Sea Point,2.0,3.0,1.0,440,"Leapfrog, City Bowl",5 495 000
+412,Camps Bay,3.0,4.0,2.0,855,Seeff Camps Bay - Sales,13 950 000
+413,Constantia,6.0,5.0,4.0,2014,Sotheby's International Realty - Tokai,34 000 000
+414,Sea Point,2.0,3.0,1.0,440,"Leapfrog, City Bowl",5 495 000
+415,Bergvliet,2.0,3.0,7.0,548,Greeff Christie's International Real Estate - Southern Suburbs,2 995 000
+416,Zeekoevlei,2.0,4.0,3.0,713,Chas Everitt Cape Town South,2 950 000
+417,Constantia,6.5,6.0,2.0,2693,Sotheby's International Realty - Tokai,22 750 000
+418,Kenilworth,1.0,,,,Rawson Properties Claremont,1 095 000
+419,Kenilworth Upper,5.0,5.0,8.0,975,Seeff Southern Suburbs,8 450 000
+420,Meadowridge,5.0,4.0,2.0,694,Jawitz Constantia,4 895 000
+421,Walmer Estate,1.0,2.0,1.0,,Mayfair Property Group,2 950 000
+422,Kalk Bay,2.0,2.0,2.0,,Greeff Christie's International Real Estate - Southern Suburbs,7 000 000
+423,Fresnaye,3.5,4.0,2.0,234,PropertyFox,8 300 000
+424,Claremont,1.0,2.0,2.0,257,Pam Golding Properties - Southern Suburbs,2 695 000
+425,Gardens,3.0,3.0,,154,RE/MAX Living,3 995 000
+426,Plumstead,2.5,3.0,3.0,552,Jawitz Constantia,3 450 000
+427,Rondebosch,4.0,4.0,1.0,992,Rawson Properties Constantia,5 975 000
+428,Kenilworth,2.0,3.0,2.0,495,Heads Residential Property,3 500 000
+429,Observatory,1.0,2.0,,411,Pam Golding Properties - Southern Suburbs,2 595 000
+430,Constantia,8.0,8.0,4.0,2551,Rawson Properties Constantia,15 999 000
+431,Mowbray,2.0,4.0,3.0,535,Knight Frank,3 995 000
+432,Tamboerskloof,3.0,3.0,,,RE/MAX Living,6 750 000
+433,Higgovale,6.0,6.0,3.0,979,Dogon Group Sea Point - Head Office,26 000 000
+434,Constantia,1.0,2.0,1.0,83,"RE/MAX, Property Associates - Pinelands",2 995 000
+435,Constantia,3.0,4.0,1.0,342,Pam Golding Properties - Southern Suburbs,7 250 000
+436,Tamboerskloof,3.0,3.0,,266,Pam Golding Properties - City Bowl,6 995 000
+437,Plumstead,2.0,3.0,5.0,472,Pam Golding Properties - Southern Suburbs,2 450 000
+438,Camps Bay,,,,663,RE/MAX Living,10 900 000
+439,Tamboerskloof,3.0,3.0,,266,Pam Golding Properties - City Bowl,6 995 000
+440,Stonehurst Mountain Estate,3.5,3.0,4.0,300,Chas Everitt Cape Town South,4 500 000
+441,De Waterkant,3.5,2.0,,,Chas Everitt Atlantic Seaboard and City Bowl,10 599 000
+442,Plumstead,1.0,3.0,1.0,446,Jawitz Constantia,1 850 000
+443,Marina Da Gama,2.0,3.0,4.0,582,Greeff Christie's International Real Estate - Southern Suburbs,3 000 000
+444,Constantia,4.5,5.0,9.0,,Greeff Christie's International Real Estate - Southern Suburbs,15 995 000
+445,Walmer Estate,6.0,6.0,,322,Pam Golding Properties - Southern Suburbs,6 990 000
+446,Llandudno,4.0,4.0,7.0,761,"RE/MAX, Property Associates - Table View",27 000 000
+447,Camps Bay,4.0,4.0,4.0,930,Chas Everitt Atlantic Seaboard and City Bowl,29 900 000
+448,Lakeside,2.0,3.0,3.0,614,Asher Properties,2 695 000
+449,Constantia,2.5,4.0,3.0,2183,Greeff Christie's International Real Estate - Southern Suburbs,6 999 000
+450,Muizenberg,2.0,3.0,2.0,556,Pam Golding Properties - Muizenberg,2 000 000
+451,Pelican Park,2.0,3.0,1.0,,,599 000
+452,Constantia,4.5,4.0,2.0,712,Pam Golding Properties - Southern Suburbs,13 595 000
+453,Fresnaye,3.0,3.0,2.0,270,RE/MAX Living,15 500 000
+454,Constantia,2.5,4.0,3.0,2183,Greeff Christie's International Real Estate - Southern Suburbs,6 999 000
+455,Kenilworth,2.5,3.0,5.0,620,Sotheby's International Realty - Claremont,4 350 000
+456,Muizenberg,2.0,3.0,1.0,201,Pam Golding Properties - South Eastern Suburbs,1 375 000
+457,Woodstock,1.0,3.0,1.0,217,Property Alliance,1 820 000
+458,Rondebosch East,3.0,5.0,,397,Jawitz South East Suburbs,2 100 000
+459,Bo Kaap,2.0,3.0,,,RE/MAX Living,6 300 000
+460,Sea Point,3.0,3.0,1.0,172,RE/MAX Living,4 750 000
+461,Costa Da Gama,1.0,2.0,2.0,172,Erf Size,1 099 000
+462,Bantry Bay,3.0,3.0,6.0,746,Engel & Volkers Camps Bay,38 500 000
+463,Bantry Bay,4.0,5.0,4.0,961,Seeff Sea Point - Sales,39 000 000
+464,Pelican Park,1.0,2.0,,91,Erf Size,660 000
+465,Woodstock,2.0,2.0,1.0,138,Tyson Properties Atlantic Seaboard,3 500 000
+466,Constantia,5.0,6.0,2.0,2000,Rawson Properties Constantia,10 000 000
+467,Newlands,3.0,3.0,4.0,782,Pam Golding Properties - Southern Suburbs,6 500 000
+468,Bishopscourt,4.0,4.0,3.0,3620,Pam Golding Properties - Southern Suburbs,23 000 000
+469,Muizenberg,2.0,4.0,2.0,599,Rawson Properties Muizenberg,8 000 000
+470,Pelican Park,2.0,3.0,1.0,240,RE/MAX Impact,1 150 000
+471,Constantia,4.0,5.0,2.0,2275,Jawitz Constantia,15 500 000
+472,Constantia,4.0,4.0,2.0,1402,Pam Golding Properties - Southern Suburbs,12 250 000
+473,Wynberg Upper,3.0,2.0,1.0,295,Signature Real Estate,2 650 000
+474,Constantia,3.0,3.0,6.0,2097,Pam Golding Properties - Southern Suburbs,11 950 000
+475,Rondebosch,3.0,5.0,4.0,936,Pam Golding Properties - Southern Suburbs,8 700 000
+476,Newlands,3.0,4.0,2.0,430,Greeff Christie's International Real Estate - Southern Suburbs,6 350 000
+477,Claremont Upper,4.0,4.0,2.0,546,Sotheby's International Realty - Claremont,13 500 000
+478,Vredehoek,1.5,3.0,1.0,357,RE/MAX Living,4 950 000
+479,Newfields,1.0,3.0,1.0,659,Momentum International Realty - Central,1 750 000
+480,Zwaanswyk,4.0,5.0,5.0,1550,Greeff Christie's International Real Estate - Southern Suburbs,19 200 000
+481,Constantia,1.0,3.0,2.0,2065,Property.CoZa - Atlantic Seaboard,7 500 000
+482,Constantia,4.5,5.0,2.0,,Jawitz Constantia,15 800 000
+483,Constantia,4.5,5.0,2.0,,Jawitz Constantia,15 800 000
+484,Marina Da Gama,4.0,4.0,6.0,,Glendyr Dade Properties,3 800 000
+485,Camps Bay,3.0,4.0,2.0,595,Pam Golding Properties - Camps Bay,12 500 000
+486,Bo Kaap,4.0,4.0,2.0,257,RE/MAX Living,7 495 000
+487,Constantia,6.0,7.0,3.0,3877,Keller Williams Eden,12 250 000
+488,Vredehoek,2.5,4.0,3.0,836,Tyson Properties Atlantic Seaboard,7 995 000
+489,University Estate,2.0,2.0,2.0,406,Olive Properties,4 295 000
+490,Kalk Bay,3.0,4.0,1.0,311,Greeff Christie's International Real Estate - Southern Suburbs,5 900 000
+491,Tamboerskloof,3.0,3.0,2.0,447,RE/MAX Living,23 950 000
+492,Crawford,3.0,7.0,5.0,437,Eazi Real Estate,2 950 000
+493,Kenilworth Upper,2.0,4.0,5.0,1084,Pam Golding Properties - Southern Suburbs,7 795 000
+494,Vredehoek,2.0,4.0,4.0,521,Knight Frank,4 900 000
+495,Camps Bay,3.0,4.0,1.0,302,Brightwater Properties,11 250 000
+496,Vredehoek,3.5,3.0,2.0,221,"Greeff Christie's International Real Estate - City Bowl, Atlantic & Western Seaboard",7 750 000
+497,Camps Bay,5.5,5.0,2.0,819,RE/MAX Living,23 000 000
+498,Vredehoek,3.5,3.0,2.0,221,"Greeff Christie's International Real Estate - City Bowl, Atlantic & Western Seaboard",7 750 000
+499,Fresnaye,5.5,6.0,6.0,1359,Lance Real Estate,POA
+500,Bantry Bay,1.0,5.0,4.0,,Hamiltons Property Portfolio - Cape Town,20 250 000
+501,Green Point,5.0,6.0,,500,RE/MAX Living,8 900 000
+502,Constantia,5.5,5.0,2.0,1376,Greeff Christie's International Real Estate - Southern Suburbs,18 995 000
+503,Bishopscourt,4.0,5.0,3.0,3219,Tyson Properties Southern Suburbs,18 500 000
+504,Wynberg Upper,5.0,5.0,2.0,474,Pam Golding Properties - Southern Suburbs,6 395 000
+505,Newlands,3.0,4.0,3.0,446,Sotheby's International Realty - Claremont,4 500 000
+506,Wynberg Upper,3.0,3.0,,1303,Blue Chip Properties,12 000 000
+507,Crossroads,1.0,3.0,1.0,106,Property.CoZa - Atlantic Seaboard,400 000
+508,Camps Bay,3.5,3.0,1.0,1890,Air Property,29 500 000
+509,Camps Bay,3.0,3.0,3.0,490,RE/MAX Living,17 750 000
+510,Observatory,1.0,3.0,2.0,207,Sharon Ball Properties,2 450 000
+511,Lansdowne,1.0,3.0,3.0,443,Pam Golding Properties - Southern Suburbs,2 100 000
+512,Zwaanswyk,3.5,5.0,2.0,1641,Greeff Christie's International Real Estate - Southern Suburbs,13 200 000
+513,Constantia,4.0,4.0,2.0,1100,Rawson Properties Constantia,10 870 000
+514,Fresnaye,5.0,5.0,3.0,1550,RE/MAX Living,70 000 000
+515,Vredehoek,2.5,3.0,2.0,187,RE/MAX Living,4 250 000
+516,Claremont,2.0,3.0,2.0,459,Keller Williams Eden,4 300 000
+517,Vredehoek,2.5,3.0,2.0,187,RE/MAX Living,4 250 000
+518,Claremont,1.0,2.0,2.0,227,Pam Golding Properties - Southern Suburbs,2 700 000
+519,Muizenberg,2.0,3.0,1.0,208,Tyson Properties Southern Suburbs,1 485 000
+520,Newlands,3.0,3.0,4.0,287,Chas Everitt Cape Town South,7 400 000
+521,Salt River,4.0,7.0,,408,RE/MAX In Motion (Mitchells Plain),7 500 000
+522,Zwaanswyk,2.0,4.0,10.0,4755,Brooks and Michaels,15 995 000
+523,Gardens,1.0,2.0,,139,Etienne Genis Attorneys,2 845 000
+524,Camps Bay,3.5,4.0,2.0,967,RE/MAX Living,14 900 000
+525,Newlands,2.0,3.0,4.0,916,Engel & Volkers Atlantic Seaboard & City Bowl,12 750 000
+526,Stonehurst Mountain Estate,4.0,4.0,4.0,1427,Sotheby's International Realty - Tokai,13 999 000
+527,Green Point,3.0,3.0,2.0,700,RE/MAX Living,19 975 000
+528,Observatory,2.0,4.0,,227,Huizemark Rondebosch,3 295 000
+529,Bantry Bay,3.0,5.0,2.0,308,RE/MAX Living,7 900 000
+530,Crawford,2.5,3.0,1.0,250,"RE/MAX, Property Associates - Pinelands",1 850 000
+531,Gardens,2.0,3.0,,244,RE/MAX Living,5 290 000
+532,Newlands,2.0,3.0,4.0,349,Tyson Properties Southern Suburbs,6 750 000
+533,Ferness Estate,1.0,2.0,1.0,62,RPF Africa Estate Agency,1 250 000
+534,Newlands,3.0,4.0,4.0,314,"RE/MAX, Premier - Claremont",8 950 000
+535,Oranjezicht,4.0,4.0,2.0,595,RE/MAX Living,13 900 000
+536,Woodstock,3.0,6.0,,101,Pam Golding Properties - Southern Suburbs,1 700 000
+537,Newlands,4.0,4.0,4.0,776,Knight Frank,17 750 000
+538,Newlands,3.5,4.0,5.0,235,Greeff Christie's International Real Estate - Southern Suburbs,8 695 000
+539,Pelican Park,1.0,2.0,,,RE/MAX In Motion (Mitchells Plain),550 000
+540,Diep River,2.0,3.0,3.0,529,Pam Golding Properties - Southern Suburbs,2 950 000
+541,Newlands,4.0,4.0,4.0,991,Sotheby's International Realty - Claremont,13 795 000
+542,Grassy Park,2.0,3.0,4.0,648,Diversity Real Estate,2 495 000
+543,Fresnaye,5.5,5.0,2.0,476,RE/MAX Living,45 000 000
+544,Constantia,4.0,4.0,14.0,1362,Lola Kramer Properties,12 995 000
+545,Rosebank,3.0,5.0,2.0,545,Knight Frank,4 700 000
+546,Newlands,3.0,4.0,4.0,314,"RE/MAX, Premier - Claremont",8 950 000
+547,Camps Bay,3.0,4.0,,650,Engel & Volkers Camps Bay,39 500 000
+548,Maitland,1.0,3.0,4.0,,RE/MAX Impact,2 450 000
+549,Diep River,3.0,4.0,3.0,494,Chas Everitt Cape Town South,2 999 000
+550,Rondebosch,2.0,3.0,5.0,496,Greeff Christie's International Real Estate - Southern Suburbs,3 600 000
+551,De Waterkant,2.0,2.0,1.0,135,RE/MAX Living,15 500 000
+552,Green Point,3.5,3.0,3.0,545,Dogon Group Sea Point - Head Office,10 500 000
+553,Constantia,3.0,4.0,2.0,1351,Rawson Properties Constantia,6 995 000
+554,Constantia,4.0,5.0,4.0,2000,Rawson Properties Constantia,10 000 000
+555,Marina Da Gama,2.0,3.0,2.0,603,Keller Williams Explore Properties,2 500 000
+556,Newlands,3.0,3.0,2.0,187,Greeff Christie's International Real Estate - Southern Suburbs,10 950 000
+557,Muizenberg,2.0,3.0,1.0,262,RE/MAX Elite,1 585 000
+558,Frogmore Estate,2.0,4.0,,708,Harcourts Maynard Burgoyne,3 595 000
+559,Bo Kaap,1.0,4.0,5.0,535,"Kapstadt International Properties cc, Gardens",9 400 000
+560,Muizenberg,1.0,3.0,1.0,255,Tyson Properties Southern Suburbs,1 395 000
+561,Grassy Park,1.0,3.0,7.0,589,Realty Professionals,2 050 000
+562,Kalk Bay,2.0,2.0,2.0,180,Engel & Volkers False Bay,6 950 000
+563,Claremont,3.5,4.0,2.0,,Rawson Properties Constantia,5 000 000
+564,Lakeside,2.5,3.0,2.0,413,Rawson Properties Constantia,7 900 000
+565,Rondebosch,3.0,4.0,3.0,815,Knight Frank,6 200 000
+566,Woodstock,1.0,2.0,1.0,120,Evolution Properties,890 000
+567,Rondebosch,3.0,4.0,3.0,815,Knight Frank,6 200 000
+568,Crossroads,1.5,3.0,,164,Jawitz South East Suburbs,380 000
+569,Constantia,4.0,5.0,3.0,1079,Sotheby's International Realty - Tokai,5 550 000
+570,Tamboerskloof,2.0,3.0,2.0,419,"Kapstadt International Properties cc, Gardens",8 950 000
+571,Llandudno,4.0,4.0,3.0,991,Signature Real Estate,19 800 000
+572,Bergvliet,2.0,3.0,2.0,484,Knight Frank,3 850 000
+573,Higgovale,3.5,3.0,2.0,255,Dogon Group Sea Point - Head Office,10 995 000
+574,Constantia,4.0,5.0,3.0,1079,Sotheby's International Realty - Tokai,5 550 000
+575,Sea Point,3.0,4.0,1.0,170,Dogon Group Sea Point - Head Office,7 995 000
+576,Bantry Bay,3.0,3.0,,650,RE/MAX Living,9 500 000
+577,Wynberg,1.5,3.0,3.0,335,Diversity Real Estate,1 950 000
+578,Gardens,4.0,4.0,1.0,402,Tyson Properties Atlantic Seaboard,8 500 000
+579,Bergvliet,2.0,3.0,4.0,426,Knight Frank,3 750 000
+580,Rondebosch,2.0,3.0,4.0,556,Knight Frank,3 400 000
+581,Constantia,3.0,4.0,8.0,1476,Tyson Properties Southern Suburbs,9 950 000
+582,Camps Bay,3.0,4.0,2.0,914,Engel & Volkers Camps Bay,13 900 000
+583,De Waterkant,1.5,1.0,1.0,,Lionlead Real Estate,6 950 000
+584,Athlone,2.0,6.0,5.0,272,RE/MAX Elite,2 450 000
+585,Capricorn,1.0,2.0,2.0,193,Tyson Properties Southern Suburbs,1 295 000
+586,Constantia,2.0,2.0,2.0,233,Rawson Properties Constantia,4 195 000
+587,Sea Point,3.0,3.0,1.0,153,Seeff Sea Point - Sales,4 995 000
+588,Observatory,4.0,9.0,,468,RE/MAX Living,4 695 000
+589,Constantia,6.0,6.0,3.0,4035,Greeff Christie's International Real Estate - Southern Suburbs,29 000 000
+590,Woodstock,2.0,3.0,4.0,192,RE/MAX Elite,2 500 000
+591,Kirstenhof,3.5,3.0,2.0,360,Tyson Properties Southern Suburbs,4 456 211
+592,Rosebank,8.0,16.0,6.0,564,Erf Size,8 500 000
+593,Kenilworth,2.0,2.0,1.0,,Heads Residential Property,2 250 000
+594,Llandudno,3.0,4.0,2.0,1385,Cape Waterfront Estates,27 500 000
+595,Green Point,2.0,3.0,,150,Erf Size,7 500 000
+596,Pinelands,3.0,4.0,3.0,773,Harcourts Maynard Burgoyne,3 850 000
+597,Observatory,2.0,3.0,,182,RE/MAX Living,2 475 000
+598,Constantia,3.5,3.0,2.0,1453,Tyson Properties Southern Suburbs,11 000 000
+599,Pelican Park,4.0,5.0,8.0,450,Omega Real Estate,1 599 999
+600,Rondebosch,3.0,4.0,5.0,931,Property.CoZa - Atlantic Seaboard,8 500 000
+601,Observatory,3.0,13.0,1.0,,,6 000 000
+602,Observatory,3.0,8.0,,317,Tyson Properties Atlantic Seaboard,3 295 000
+603,Gardens,2.0,4.0,,133,Tyson Properties Atlantic Seaboard,3 300 000
+604,Muizenberg,2.0,3.0,1.0,303,RE/MAX Elite,3 200 000
+605,Silvertree Estate,6.0,6.0,3.0,728,Sotheby's International Realty - Tokai,10 950 000
+606,Capricorn,1.0,2.0,2.0,215,Tyson Properties Southern Suburbs,1 350 000
+607,Constantia,3.5,3.0,2.0,1453,Tyson Properties Southern Suburbs,11 000 000
+608,Pinelands,2.0,4.0,,833,Sharon Van Rensburg Properties,3 350 000
+609,Oranjezicht,2.0,3.0,2.0,551,RE/MAX Living,11 950 000
+610,Clifton,2.5,2.0,1.0,272,Lance Real Estate,38 950 000
+611,Maitland,2.0,3.0,,185,Meggar Property Brokers,1 100 000
+612,Rondebosch,3.5,5.0,4.0,991,Diversity Real Estate,12 000 000
+613,Bergvliet,2.5,3.0,7.0,1062,Chas Everitt Cape Town South,4 950 000
+614,Llandudno,4.0,4.0,2.0,1045,Cape Waterfront Estates,69 000 000
+615,Gardens,3.0,4.0,,145,Tyson Properties Atlantic Seaboard,5 689 000
+616,Newlands,2.5,4.0,3.0,576,Sotheby's International Realty - Claremont,9 790 000
+617,Rondebosch,2.5,3.0,4.0,496,Tyson Properties Southern Suburbs,6 750 000
+618,Maitland,2.0,3.0,,185,Meggar Property Brokers,1 100 000
+619,Pinelands,2.0,3.0,6.0,833,Harcourts Maynard Burgoyne,3 150 000
+620,Camps Bay,3.5,4.0,2.0,991,Pam Golding Properties - Camps Bay,26 750 000
+621,Bantry Bay,6.0,6.0,2.0,1106,RE/MAX Living,86 250 000
+622,Stonehurst Mountain Estate,2.0,3.0,4.0,461,Chas Everitt Cape Town South,7 450 000
+623,Newfields,3.0,7.0,2.0,557,"3%.Com Properties - Bellville,Parow,Goodwood",2 450 000
+624,Constantia,4.0,4.0,4.0,1350,Signature Real Estate,24 800 000
+625,Constantia,3.0,3.0,6.0,2800,"RE/MAX, Premier - Claremont",9 995 000
+626,Lotus River,4.0,8.0,6.0,1286,"RE/MAX, Premier - Claremont",2 250 000
+627,Bridgetown,1.0,1.0,,38,Pam Golding Properties - Goodwood / Athlone / Belhar,850 000
+628,Bishopscourt,8.0,8.0,6.0,7709,Keller Williams Eden,POA
+629,Zwaanswyk,3.0,4.0,9.0,4002,Stonehurst Properties,9 850 000
+630,Rondebosch,4.5,4.0,1.0,248,Rawson Properties Rawson Developers,8 750 000
+631,Sea Point,2.0,3.0,,154,Dogon Group Sea Point - Head Office,5 295 000
+632,Punts Estate,2.0,3.0,2.0,500,Realty Professionals,2 750 000
+633,Newlands,3.0,3.0,5.0,898,Seeff Southern Suburbs,6 950 000
+634,Constantia,3.0,4.0,8.0,1992,Blue Chip Properties,10 000 000
+635,Higgovale,7.5,7.0,6.0,1106,RE/MAX Living,69 000 000
+636,Camps Bay,4.5,4.0,10.0,843,Dogon Group Sea Point - Head Office,29 000 000
+637,Tokai,3.0,3.0,2.0,269,Sotheby's International Realty - Tokai,5 995 000
+638,Fresnaye,2.0,3.0,2.0,424,Pam Golding Properties - Atlantic Seaboard,6 350 000
+639,Rondebosch,4.5,4.0,2.0,520,Leadhome,5 195 000
+640,Woodstock,2.0,3.0,,187,Pam Golding Properties - Southern Suburbs,2 695 000
+641,Belthorne Estate,1.0,3.0,4.0,535,Eazi Real Estate,2 500 000
+642,Sea Point,2.5,3.0,,135,Engel & Volkers Atlantic Seaboard & City Bowl,4 995 000
+643,Newlands,3.0,3.0,2.0,,Greeff Christie's International Real Estate - Southern Suburbs,7 495 000
+644,Observatory,1.0,2.5,2.0,234,Knight Frank,2 895 000
+645,Maitland,2.0,4.0,,354,Meggar Property Brokers,1 749 999
+646,De Waterkant,3.0,3.0,,137,Engel & Volkers Atlantic Seaboard & City Bowl,12 000 000
+647,Tokai,3.0,3.0,2.0,269,Sotheby's International Realty - Tokai,5 995 000
+648,Llandudno,3.0,5.0,2.0,1500,Cape Waterfront Estates,19 500 000
+649,Claremont Upper,2.0,3.0,2.0,400,Dogon Group Southern Suburbs,5 950 000
+650,Muizenberg,2.0,3.0,2.0,495,RE/MAX Elite,3 500 000
+651,Green Point,3.0,4.0,,232,RE/MAX Living,5 750 000
+652,Pinelands,3.0,4.0,4.0,793,Keller Williams Explore Properties,4 395 000
+653,Camps Bay,3.5,4.0,4.0,316,Live Real Estate,12 850 000
+654,Kalk Bay,4.0,6.0,2.0,1177,Engel & Volkers False Bay,9 800 000
+655,Vredehoek,4.0,4.0,2.0,327,Erf Size,10 700 000
+656,Philadelphia,2.0,3.0,3.0,382,Realtors International Durbanville (Leendert Hols),2 695 100
+657,Fresnaye,5.0,4.0,6.0,800,Peter Venter Estates,36 000 000
+658,Woodstock,2.0,3.0,1.0,127,Property Alliance,2 895 000
+659,Constantia,3.5,4.0,1.0,342,Sotheby's International Realty - Tokai,7 250 000
+660,Newlands,2.0,2.0,,127,Pam Sorel Properties,3 950 000
+661,Rondebosch,4.5,4.0,6.0,1242,Greeff Christie's International Real Estate - Southern Suburbs,15 000 000
+662,Lakeside,4.0,4.0,4.0,398,Seeff False Bay - Muizenberg,3 750 000
+663,Philadelphia,2.0,3.0,3.0,360,House of Realtors,2 607 683
+664,Vredehoek,3.0,6.0,1.0,324,Erf Size,9 700 000
+665,Camps Bay,5.0,5.0,2.0,831,RE/MAX Living,34 500 000
+666,Gardens,2.0,3.0,,,RE/MAX Living,6 950 000
+667,Fresnaye,7.0,11.0,4.0,633,Engel & Volkers Atlantic Seaboard & City Bowl,18 900 000
+668,Kalk Bay,3.0,3.0,3.0,748,Greeff Christie's International Real Estate - Southern Suburbs,6 900 000
+669,Tokai,2.5,4.0,5.0,1050,Eazi Real Estate,5 500 000
+670,Claremont,3.5,5.0,2.0,,Rawson Properties Constantia,5 495 000
+671,Camps Bay,5.0,5.0,5.0,734,Erf Size,40 000 000
+672,Claremont,3.5,5.0,2.0,,Rawson Properties Constantia,5 495 000
+673,Camps Bay,4.0,5.0,5.0,766,Seeff Camps Bay - Sales,9 950 000
+674,Kenilworth,,,,454,Pears Property Group,4 800 000
+675,Constantia,3.0,7.0,2.0,3188,Pam Golding Properties - Southern Suburbs,10 995 000
+676,Kirstenhof,3.0,5.0,1.0,787,Erf Size,3 500 000
+677,Maitland,2.0,3.0,4.0,336,LeGrand Properties,1 400 000
+678,Woodstock,2.0,3.0,3.0,457,"Greeff Christie's International Real Estate - City Bowl, Atlantic & Western Seaboard",3 395 000
+679,Zonnebloem,1.0,2.0,1.0,63,FPS Properties,1 850 000
+680,Plumstead,3.0,4.0,3.0,496,"RE/MAX, Premier - Claremont",4 750 000
+681,Tokai,3.5,3.0,2.0,235,Signature Real Estate,5 995 000
+682,Newlands,4.0,3.0,2.0,300,Chas Everitt Cape Town South,5 600 000
+683,Gardens,,,,160,Simply Perfect,6 495 000
+684,Oranjezicht,2.5,3.0,6.0,545,Tyson Properties Atlantic Seaboard,15 900 000
+685,Pinelands,3.0,4.0,6.0,1383,Harcourts Maynard Burgoyne,4 850 000
+686,Thornton,1.5,3.0,7.0,598,Diversity Real Estate,2 400 000
+687,Nyanga,,,,520,We Trade Property - Northern Suburbs,695 000
+688,Tamboerskloof,3.5,3.0,2.0,738,REDZ etc,15 900 000
+689,Constantia,8.0,8.0,2.0,3834,Seeff Southern Suburbs,19 950 000
+690,Observatory,2.0,3.0,1.0,244,Erf Size,2 395 000
+691,Salt River,1.0,3.0,2.0,192,Tyson Properties Atlantic Seaboard,2 600 000
+692,Salt River,2.0,2.0,,90,Tyson Properties Atlantic Seaboard,1 555 000
+693,Thornton,1.5,3.0,7.0,598,Diversity Real Estate,2 400 000
+694,Camps Bay,3.5,5.0,4.0,1784,Chas Everitt Atlantic Seaboard and City Bowl,14 500 000
+695,Camps Bay,4.0,4.0,2.0,650,Dogon Group Sea Point - Head Office,48 000 000
+696,Stonehurst Mountain Estate,2.5,3.0,4.0,461,Sotheby's International Realty - Tokai,7 450 000
+697,Camps Bay,3.0,4.0,2.0,240,Pam Golding Properties - Camps Bay,13 750 000
+698,Marina Da Gama,,,,640,Rezprop,2 950 000
+699,Oranjezicht,2.0,3.0,4.0,614,Knight Frank,12 750 000
+700,Vanguard,2.0,4.0,3.0,505,RE/MAX In Motion (Mitchells Plain),2 349 000
+701,Llandudno,7.0,7.0,2.0,1844,Cape Waterfront Estates,19 250 000
+702,Green Point,2.0,2.0,,268,RE/MAX Living,4 349 000
+703,Pinelands,1.0,0.5,,,RealNet Platinum,691 000
+704,Pelican Park,1.0,2.0,1.0,74,Omega Real Estate,620 000
+705,Marina Da Gama,,,,640,Rezprop,2 950 000
+706,Claremont Upper,2.0,3.0,,296,Rawson Properties Constantia,3 300 000
+707,Newlands,3.5,4.0,5.0,,Sotheby's International Realty - Claremont,6 995 000
+708,Fresnaye,4.0,5.0,8.0,815,Jawitz Atlantic Seaboard,13 800 000
+709,Lotus River,1.0,5.0,7.0,625,RE/MAX Impact,1 800 000
+710,Camps Bay,7.0,8.0,2.0,1180,RE/MAX Living,16 950 000
+711,Diep River,1.5,2.0,2.0,232,Rawson Properties Constantia,2 395 000
+712,Oranjezicht,2.0,3.0,1.0,195,Leadhome,5 950 000
+713,Kewtown,2.0,3.0,3.0,,,965 000
+714,Bishopscourt,5.0,5.0,4.0,5413,Sotheby's International Realty - Claremont,34 500 000
+715,Constantia,4.0,4.0,2.0,2797,Jawitz Constantia,14 500 000
+716,Gardens,3.0,4.0,2.0,869,"Kapstadt International Properties cc, Gardens",13 500 000
+717,Constantia,2.0,3.0,2.0,740,Jawitz Constantia,4 495 000
+718,Stonehurst Mountain Estate,4.0,4.0,2.0,1005,Sotheby's International Realty - Tokai,12 950 000
+719,Schaap Kraal,1.5,5.0,30.0,4045,Eazi Real Estate,4 500 000
+720,Silvertree Estate,2.0,3.0,2.0,728,Sotheby's International Realty - Tokai,8 500 000
+721,Capricorn,2.5,3.0,2.0,220,Tyson Properties Southern Suburbs,1 495 000
+722,Kenilworth,4.0,4.0,3.0,940,Property.CoZa - Atlantic Seaboard,13 995 000
+723,Woodstock,1.0,2.0,,113,Sotheby's International Realty - Atlantic Seaboard & City Bowl,1 990 000
+724,Higgovale,4.0,4.0,4.0,456,"Kapstadt International Properties cc, Gardens",16 900 000
+725,Tamboerskloof,2.0,3.0,2.0,433,Pam Golding Properties - City Bowl,9 250 000
+726,Rondebosch,4.0,4.0,2.0,248,Rawson Properties Rawson Developers,8 490 000
+727,Gardens,1.0,,,,,3 950 000
+728,Walmer Estate,2.0,3.0,1.0,225,Pam Golding Properties - Southern Suburbs,2 500 000
+729,Fairways,4.0,5.0,3.0,496,Jawitz South East Suburbs,2 899 000
+730,Woodstock,1.0,2.0,,113,Sotheby's International Realty - Atlantic Seaboard & City Bowl,1 990 000
+731,Rondebosch,5.0,5.0,9.0,1196,Seeff Southern Suburbs,8 800 000
+732,Zwaanswyk,3.0,4.0,6.0,3548,Sotheby's International Realty - Tokai,12 995 000
+733,Constantia,1.0,3.0,3.0,2065,Keller Williams Eden,7 499 000
+734,Zwaanswyk,6.0,6.0,6.0,2537,Sotheby's International Realty - Tokai,25 950 000
+735,Sea Point,1.0,1.0,,79,Leadhome,2 995 000
+736,Vredehoek,2.0,3.0,1.0,,RE/MAX Living,4 990 000
+737,Claremont Upper,2.0,2.0,1.0,272,Sotheby's International Realty - Claremont,3 900 000
+738,Bishop Lavis,1.0,3.0,2.0,250,RealNet Platinum,769 000
+739,Meadowridge,2.0,3.0,4.0,806,Knight Frank,3 995 000
+740,Nooitgedacht,1.0,3.0,3.0,90,FPS Properties,780 000
+741,Retreat,1.0,3.0,1.0,,Momentum International Realty - Central,1 699 000
+742,Lansdowne,2.0,4.0,4.0,627,Pam Golding Properties - Southern Suburbs,3 395 000
+743,Gardens,3.0,,,300,Erf Size,8 450 000
+744,Pelican Park,3.0,2.0,1.0,525,RE/MAX Impact,1 395 000
+745,Camps Bay,3.0,4.0,2.0,595,Keller Williams Eden,17 300 000
+746,Sea Point,3.0,9.0,,381,Erf Size,5 995 000
+747,Constantia,5.0,4.0,3.0,2527,Sotheby's International Realty - Tokai,19 995 000
+748,Observatory,1.5,1.5,,115,Tyson Properties Atlantic Seaboard,1 899 500
+749,Pelican Park,2.0,4.0,4.0,331,Pam Golding Properties - South Eastern Suburbs,1 450 000
+750,Woodstock,1.0,2.0,1.0,130,Keller Williams Eden,2 195 000
+751,Camps Bay,3.0,4.0,2.0,595,Keller Williams Eden,17 300 000
+752,Marina Da Gama,2.0,3.0,2.0,,Seeff False Bay - Muizenberg,2 425 000
+753,Observatory,2.0,3.0,1.0,273,Sharon Ball Properties,3 295 000
+754,Constantia,4.0,4.0,2.0,2000,Greeff Christie's International Real Estate - Southern Suburbs,19 950 000
+755,Constantia,3.0,3.0,4.0,863,Tyson Properties Southern Suburbs,4 750 000
+756,Bishopscourt,5.0,5.0,10.0,2741,Greeff Christie's International Real Estate - Southern Suburbs,26 950 000
+757,Newlands,4.0,4.0,5.0,1000,Pam Golding Properties - Southern Suburbs,17 950 000
+758,Pelican Park,1.0,2.0,1.0,83,Theron Property Group,370 000
+759,Observatory,2.0,2.0,2.0,152,Sharon Ball Properties,2 595 000
+760,Camps Bay,5.0,4.0,2.0,1090,Engel & Volkers Atlantic Seaboard & City Bowl,18 995 000
+761,Constantia,4.5,4.0,2.0,1300,Pam Golding Properties - Southern Suburbs,15 999 000
+762,Steenberg Golf Estate,4.0,4.0,4.0,750,Steenberg Property Sales,14 995 000
+763,Zwaanswyk,5.0,5.0,3.0,4442,Sotheby's International Realty - Tokai,15 900 000
+764,Steenberg Golf Estate,4.0,4.0,4.0,750,Steenberg Property Sales,14 995 000
+765,St James,5.0,5.0,8.0,1225,Erf Size,10 950 000
+766,Camps Bay,8.0,8.0,4.0,728,Engel & Volkers Camps Bay,73 000 000
+767,Fairways,3.0,5.0,2.0,494,Pam Golding Properties - South Eastern Suburbs,2 595 000
+768,Claremont,2.0,3.0,,496,Keller Williams Explore Properties,3 500 000
+769,Claremont,2.0,3.0,2.0,477,Greeff Christie's International Real Estate - Southern Suburbs,3 750 000
+770,Camps Bay,4.5,4.0,3.0,,Dogon Group Sea Point - Head Office,15 500 000
+771,Fresnaye,12.0,9.0,8.0,,Live Real Estate,49 500 000
+772,Wynberg Upper,2.0,2.0,1.0,257,De Graaf Properties,2 550 000
+773,Higgovale,3.0,5.0,3.0,987,RE/MAX Living,18 000 000
+774,Ottery,1.5,3.0,,674,RE/MAX Impact,2 250 000
+775,Stonehurst Mountain Estate,3.0,3.0,3.0,300,Seeff False Bay - Muizenberg,5 350 000
+776,Camps Bay,3.5,4.0,2.0,459,RE/MAX Oaktree - Paarl,10 800 000
+777,Green Point,3.0,5.0,1.0,690,Erf Size,13 500 000
+778,Wynberg Upper,2.0,2.0,1.0,257,De Graaf Properties,2 550 000
+779,Higgovale,3.0,5.0,3.0,987,RE/MAX Living,18 000 000
+780,Ottery,1.5,3.0,,674,RE/MAX Impact,2 250 000
+781,Stonehurst Mountain Estate,3.0,3.0,3.0,300,Seeff False Bay - Muizenberg,5 350 000
+782,Camps Bay,3.5,4.0,2.0,459,RE/MAX Oaktree - Paarl,10 800 000
+783,Green Point,3.0,5.0,1.0,690,Erf Size,13 500 000
+784,Bergvliet,2.0,4.0,4.0,1086,Eazi Real Estate,4 195 000
+785,Kenilworth Upper,3.0,4.0,4.0,1101,Seeff Southern Suburbs,7 995 000
+786,Kenwyn,1.5,3.0,,689,Leadhome,3 250 000
+787,Muizenberg,3.0,5.0,2.0,735,RE/MAX Elite,6 900 000
+788,Windermere,1.0,3.0,,,The Real Estate Company Cape Town,849 000
+789,Wynberg Upper,2.0,2.0,2.0,292,Greeff Christie's International Real Estate - Southern Suburbs,3 800 000
+790,Fresnaye,3.0,4.0,2.0,,Live Real Estate,11 995 000
+791,Muizenberg,1.0,3.0,3.0,261,Erf Size,1 350 000
+792,Claremont,2.0,3.0,1.0,500,"RE/MAX, Property Associates - Pinelands",3 449 000
+793,Stonehurst Mountain Estate,3.0,3.0,3.0,300,Seeff False Bay - Muizenberg,5 350 000
+794,Pinati,1.5,3.0,2.0,629,Port Commercial Properties,2 000 000
+795,Rondebosch East,1.0,3.0,4.0,496,Diversity Real Estate,2 995 000
+796,Bishop Lavis,1.0,3.0,1.0,,"RE/MAX, Property Associates - Pinelands",969 000
+797,Oranjezicht,2.0,3.0,4.0,942,Knight Frank,20 950 000
+798,Llandudno,5.0,7.0,2.0,1240,Cape Waterfront Estates,18 380 000
+799,Newlands,2.0,2.0,3.0,1014,Seeff Southern Suburbs,8 400 000
+800,Belhar,1.0,2.0,5.0,305,Erf Size,1 250 000
+801,Muizenberg,2.0,3.0,3.0,200,RE/MAX Elite,1 500 000
+802,Constantia,5.5,5.0,7.0,4081,Dogon Group Southern Suburbs,12 950 000
+803,Fresnaye,4.0,4.0,5.0,614,Pam Golding Properties - Atlantic Seaboard,19 950 000
+804,Stonehurst Mountain Estate,3.5,3.0,3.0,300,Seeff False Bay - Muizenberg,6 500 000
+805,St James,3.0,4.0,2.0,596,"RE/MAX, Premier - Claremont",POA
+806,Salt River,1.0,4.0,,95,REDZ etc,1 495 000
+807,Oranjezicht,4.0,6.0,,901,RE/MAX Living,10 995 000
+808,Vredehoek,3.0,3.0,1.0,260,RE/MAX Living,4 190 000
+809,Bishopscourt,5.0,5.0,4.0,5230,Pam Golding Properties - Southern Suburbs,30 000 000
+810,Bishopscourt,4.0,4.0,6.0,4161,Realtor of Excellence,19 995 000
+811,Woodstock,2.0,11.0,2.0,,RE/MAX Impact,4 500 000
+812,Diep River,1.5,2.0,,202,Jawitz Constantia,1 350 000
+813,Higgovale,2.0,3.0,1.0,,"Greeff Christie's International Real Estate - City Bowl, Atlantic & Western Seaboard",3 395 000
+814,Higgovale,3.0,4.0,4.0,,RE/MAX Living,18 495 000
+815,Bishopscourt,5.0,5.0,4.0,5230,Pam Golding Properties - Southern Suburbs,30 000 000
+816,Constantia,4.0,4.0,4.0,4021,Greeff Christie's International Real Estate - Southern Suburbs,18 750 000
+817,Constantia,2.0,3.0,2.0,1721,Realty Professionals,5 300 000
+818,Ocean View,3.0,5.0,3.0,497,Cape Coastal Property Group - Fish Hoek,1 295 000
+819,Wynberg Upper,3.0,3.0,2.0,321,Blue Chip Properties,3 950 000
+820,Higgovale,3.0,4.0,4.0,,RE/MAX Living,18 495 000
+821,Bishopscourt,5.0,5.0,4.0,5230,Pam Golding Properties - Southern Suburbs,30 000 000
+822,Constantia,4.0,4.0,4.0,4021,Greeff Christie's International Real Estate - Southern Suburbs,18 750 000
+823,Constantia,2.0,3.0,2.0,1721,Realty Professionals,5 300 000
+824,Ocean View,3.0,5.0,3.0,497,Cape Coastal Property Group - Fish Hoek,1 295 000
+825,Wynberg Upper,3.0,3.0,2.0,321,Blue Chip Properties,3 950 000
+826,Higgovale,2.0,3.0,2.0,347,"Greeff Christie's International Real Estate - City Bowl, Atlantic & Western Seaboard",5 995 000
+827,Philippi East,1.0,2.0,1.0,130,Omega Real Estate,370 000
+828,Constantia,4.0,4.0,3.0,2324,Jawitz Constantia,10 900 000
+829,Muizenberg,3.0,3.0,,125,"RE/MAX, Premier - Claremont",1 795 000
+830,Claremont,3.0,7.0,7.0,497,Knight Frank,3 400 000
+831,Pelican Heights,,,,,Dawn Properties,2 700 000
+832,Kenilworth Upper,2.5,5.0,4.0,1309,Chas Everitt Cape Town South,6 750 000
+833,Schaap Kraal,2.0,5.0,2.0,16199,Pam Golding Properties - South Eastern Suburbs,6 900 000
+834,Fresnaye,6.5,5.0,2.0,445,Dogon Group Sea Point - Head Office,26 900 000
+835,Camps Bay,3.5,4.0,2.0,1070,Tyson Properties Atlantic Seaboard,13 950 000
+836,Claremont,3.0,7.0,7.0,497,Knight Frank,3 400 000
+837,Constantia,4.0,4.0,2.0,1596,Jawitz Constantia,10 200 000
+838,Camps Bay,7.0,6.0,11.0,685,Keller Williams Eden,42 000 000
+839,Newlands,5.0,4.0,3.0,873,Sotheby's International Realty - Claremont,6 200 000
+840,Wynberg,1.0,2.0,,145,Realty Professionals,1 200 000
+841,Constantia,6.0,5.0,5.0,1903,Seeff Southern Suburbs,12 900 000
+842,Pelican Park,1.0,2.0,,,Momentum International Realty - Central,499 000
+843,Steenberg Golf Estate,4.0,4.0,3.0,829,Sotheby's International Realty - Tokai,21 500 000
+844,Wynberg Upper,2.0,2.0,2.0,,Greeff Christie's International Real Estate - Southern Suburbs,2 495 000
+845,Constantia,3.5,4.0,3.0,4164,Greeff Christie's International Real Estate - Southern Suburbs,14 995 000
+846,Constantia,4.0,4.0,3.0,2843,Jawitz Constantia,10 500 000
+847,Walmer Estate,1.0,2.0,2.0,128,Realtor of Excellence,1 995 500
+848,Observatory,5.0,9.0,,298,Erf Size,5 000 000
+849,Camps Bay,7.0,6.0,2.0,652,Pam Golding Properties - Camps Bay,14 500 000
+850,Observatory,5.0,9.0,,298,Erf Size,5 000 000
+851,Pinelands,1.0,0.5,,,RealNet Platinum,859 000
+852,Salt River,1.0,2.0,1.0,137,Diversity Real Estate,1 650 000
+853,Steenberg Golf Estate,4.0,5.0,3.0,877,Steenberg Property Sales,15 995 000
+854,Camps Bay,5.0,5.0,2.0,,Floor Size,40 000 000
+855,Constantia,2.0,3.0,8.0,,"RE/MAX, Property Associates - Pinelands",3 595 000
+856,Constantia,6.0,6.0,4.0,6907,Jawitz Constantia,29 000 000
+857,Rondebosch,3.0,5.0,4.0,906,Greeff Christie's International Real Estate - Southern Suburbs,8 500 000
+858,Sea Point,2.0,2.0,,,Floor Size,4 500 000
+859,Camps Bay,3.5,3.0,4.0,347,Dogon Group Sea Point - Head Office,19 000 000
+860,Fresnaye,4.0,4.0,4.0,458,Elite Homes,11 950 000
+861,Sea Point,5.0,9.0,,381,RE/MAX Living,5 995 000
+862,Bantry Bay,6.0,6.0,3.0,,Soukop Property Group - Sea Point,52 500 000
+863,Kensington,2.0,4.0,2.0,,Law24,1 850 000
+864,Oranjezicht,6.0,8.0,2.0,810,Tyson Properties Atlantic Seaboard,10 995 000
+865,Constantia,5.0,5.0,4.0,4011,Jawitz Constantia,25 000 000
+866,Maitland,3.0,5.0,,320,LeGrand Properties,1 895 000
+867,Claremont Upper,3.5,3.0,4.0,495,Knight Frank,10 750 000
+868,Pinelands,6.0,7.0,8.0,872,Sharon Van Rensburg Properties,5 999 000
+869,Woodstock,1.0,2.0,1.0,131,Property Alliance,2 195 000
+870,Ottery,2.0,4.0,1.0,510,Pam Golding Properties - South Eastern Suburbs,2 400 000
+871,Camps Bay,1.0,2.0,1.0,321,RE/MAX Living,6 500 000
+872,Plumstead,4.0,6.0,3.0,487,NDS Real Estate,3 495 000
+873,St James,3.0,4.0,1.0,760,"RE/MAX, Premier - Claremont",8 250 000
+874,Browns Farm,3.0,5.0,,345,Omega Real Estate,850 000
+875,Ocean View,1.0,2.0,2.0,187,Cape Coastal Property Group - Fish Hoek,680 000
+876,Camps Bay,4.0,4.0,2.0,747,RE/MAX Living,24 975 000
+877,Maitland,3.0,5.0,,320,LeGrand Properties,1 895 000
+878,De Waterkant,2.0,2.0,,60,Erf Size,7 900 000
+879,Camps Bay,5.5,5.0,2.0,694,Dogon Group Sea Point - Head Office,24 950 000
+880,Claremont Upper,4.0,5.0,4.0,956,Pam Golding Properties - Southern Suburbs,13 900 000
+881,Vredehoek,3.0,3.0,4.0,222,"Kapstadt International Properties cc, Gardens",6 950 000
+882,Schaap Kraal,5.0,9.0,8.0,497,RE/MAX Impact,2 100 000
+883,Silvertree Estate,3.0,4.0,4.0,799,Chas Everitt Cape Town South,8 190 000
+884,Higgovale,7.0,7.0,1.0,1060,RE/MAX Living,18 000 000
+885,Woodstock,2.0,4.0,2.0,211,RE/MAX Elite,2 800 000
+886,Woodstock,1.0,2.0,1.0,,Evolution Properties,1 385 000
+887,Crawford,6.0,9.0,7.0,613,RE/MAX Elite,5 300 000
+888,Camps Bay,9.0,9.0,2.0,,Omega Real Estate,29 950 000
+889,Oranjezicht,2.0,3.0,1.0,132,Steer International Properties,4 950 000
+890,Lansdowne,1.0,2.0,1.0,244,Chas Everitt Cape Town South,1 395 000
+891,Crawford,6.0,9.0,7.0,613,RE/MAX Elite,5 300 000
+892,Llandudno,5.0,6.0,3.0,990,Cape Waterfront Estates,27 000 000
+893,Ottery,2.0,3.0,4.0,466,Eazi Real Estate,2 295 000
+894,Constantia,8.0,7.0,3.0,2983,Sotheby's International Realty - Tokai,32 000 000
+895,Newlands,8.5,5.0,6.0,1542,Sotheby's International Realty - Claremont,23 000 000
+896,Oranjezicht,1.0,2.0,,133,"Greeff Christie's International Real Estate - City Bowl, Atlantic & Western Seaboard",2 699 000
+897,Constantia,6.0,6.0,6.0,1913,Sotheby's International Realty - Tokai,11 900 000
+898,Retreat,1.0,2.0,1.0,,Momentum International Realty - Central,1 349 000
+899,Plumstead,2.0,3.0,4.0,354,Chas Everitt Cape Town South,2 420 000
+900,Gardens,2.0,3.0,,146,RE/MAX Living,3 995 000
+901,Constantia,3.0,5.0,2.0,4009,Blue Chip Properties,12 995 000
+902,Sea Point,2.0,2.0,,178,RE/MAX Living,4 250 000
+903,Camps Bay,3.0,4.0,2.0,,RE/MAX Living,13 750 000
+904,Observatory,6.0,11.0,,476,Tyson Properties Atlantic Seaboard,5 500 000
+905,Zonnebloem,3.5,4.0,2.0,213,RE/MAX Elite,2 990 000
+906,Constantia,6.5,6.0,4.0,2654,Sotheby's International Realty - Tokai,21 900 000
+907,Vredehoek,7.0,7.0,2.0,540,REDZ etc,7 500 000
+908,Lavender Hill,1.5,3.0,1.0,,,579 000
+909,Pelican Park,1.0,6.0,7.0,472,RE/MAX Impact,1 590 000
+910,Higgovale,3.0,3.0,3.0,254,RE/MAX Living,7 300 000
+911,Fresnaye,3.0,3.0,1.0,,Broll Property Group,12 950 000
+912,Oranjezicht,5.0,5.0,2.0,1025,RE/MAX Living,POA
+913,Observatory,1.0,2.0,,128,Sharon Ball Properties,2 100 000
+914,Rondebosch East,5.0,6.0,4.0,496,"RE/MAX, Premier - Claremont",3 750 000
+915,Silvertree Estate,4.0,6.0,2.0,700,Sotheby's International Realty - Tokai,12 900 000
+916,Bishop Lavis,1.0,2.0,1.0,153,RealNet Platinum,699 000
+917,Mountview,2.0,3.0,5.0,250,Greeff Christie's International Real Estate - Southern Suburbs,1 595 000
+918,Woodstock,2.0,3.0,,126,Olive Properties,2 995 000
+919,Kenilworth,3.0,4.0,3.0,714,Property.CoZa - Atlantic Seaboard,5 900 000
+920,Constantia,3.0,4.0,2.0,1500,Chas Everitt Cape Town South,11 495 000
+921,Silvertown,2.0,6.0,4.0,272,Erf Size,2 450 000
+922,Crawford,2.0,3.0,2.0,420,Imagine Properties,2 700 000
+923,Crawford,4.0,3.0,2.0,496,Diversity Real Estate,2 995 000
+924,Pelican Park,1.0,6.0,7.0,472,RE/MAX Impact,1 590 000
+925,Plumstead,2.5,4.0,6.0,497,Eazi Real Estate,2 295 000
+926,Observatory,2.0,2.0,,172,Rawson Properties RD Sales / Rentals,2 395 000
+927,Llandudno,3.0,3.0,2.0,535,Cape Waterfront Estates,15 500 000
+928,Vredehoek,2.0,3.0,2.0,222,Pam Golding Properties - City Bowl,5 900 000
+929,Camps Bay,4.0,4.0,2.0,,RE/MAX Living,17 995 000
+930,Rondebosch,5.0,5.0,8.0,618,Pam Golding Properties - Southern Suburbs,8 500 000
+931,Bantry Bay,3.0,3.0,,,Dogon Group Sea Point - Head Office,13 225 000
+932,Zonnebloem,2.0,3.0,2.0,154,Dogon Group Sea Point - Head Office,3 300 000
+933,Gardens,2.0,,,560,Dogon Group Sea Point - Head Office,6 450 000
+934,Lansdowne,4.0,4.0,1.0,498,Theron Property Group,2 399 000
+935,Bakoven,5.0,5.0,1.0,567,RE/MAX Living,18 000 000
+936,Bishopscourt,5.0,5.0,8.0,4144,Pam Golding Properties - Southern Suburbs,29 000 000
+937,Constantia,5.0,5.0,3.0,7357,Sotheby's International Realty - Tokai,42 000 000
+938,Pelican Park,1.0,2.0,,,Momentum International Realty - Central,440 000
+939,Gardens,2.0,,,560,Dogon Group Sea Point - Head Office,6 450 000
+940,Rondebosch East,3.0,5.0,3.0,496,Pam Golding Properties - Southern Suburbs,2 250 000
+941,Wetton,3.0,4.0,4.0,602,"RE/MAX, Property Associates - Pinelands",2 999 000
+942,St James,3.0,4.0,1.0,906,Keller Williams Explore Properties,10 500 000
+943,Constantia,12.0,12.0,,9105,Jawitz Constantia,75 000 000
+944,Newlands,2.0,2.0,,484,Seeff Southern Suburbs,8 600 000
+945,Three Anchor Bay,2.0,3.0,,166,RE/MAX Living,8 495 000
+946,Ocean View,1.0,4.0,2.0,120,Cape Coastal Property Group - Fish Hoek,550 000
+947,Woodstock,1.0,2.0,,120,Attorney Realtor Hub,1 350 000
+948,Woodstock,3.0,5.0,,180,Percipient Properties,1 995 000
+949,Vredehoek,2.0,4.0,1.0,,Steer International Properties,4 500 000
+950,Bishopscourt Village,2.0,3.0,1.0,457,Rawson Properties Constantia,5 380 000
+951,Newfields,2.0,4.0,1.0,372,RE/MAX In Motion (Mitchells Plain),1 500 000
+952,Constantia,5.0,4.0,4.0,3657,Sotheby's International Realty - Tokai,16 995 000
+953,Green Point,1.0,2.0,,,RE/MAX Living,3 200 000
+954,Gardens,5.5,6.0,6.0,,Tyson Properties Atlantic Seaboard,POA
+955,Wynberg Upper,2.0,3.0,2.0,900,Pam Sorel Properties,6 500 000
+956,Constantia,7.0,6.0,15.0,10747,Realtor of Excellence,80 000 000
+957,Zonnebloem,1.0,2.0,1.0,,property4SALE,1 490 000
+958,Newlands,1.0,3.0,6.0,534,Upton Properties Newlands,3 950 000
+959,Tokai,4.5,4.0,2.0,,Dogon Group Southern Suburbs,26 500 000
+960,Muizenberg,1.0,2.0,,,"RE/MAX, Property Associates - Pinelands",1 200 000
+961,Constantia,2.0,2.0,,1500,Jawitz Constantia,6 750 000
+962,Camps Bay,4.5,4.0,4.0,595,Marion Taylor Properties,13 500 000
+963,Bridgetown,1.0,2.0,2.0,,RE/MAX Impact,1 100 000
+964,Vredehoek,2.0,3.0,4.0,418,"Kapstadt International Properties cc, Gardens",4 500 000
+965,Gardens,5.5,6.0,6.0,,Tyson Properties Atlantic Seaboard,POA
+966,Guguletu,1.0,4.0,,221,ClareMart Auction Group,POA
+967,Llandudno,1.0,1.0,,400,Cape Waterfront Estates,6 980 000
+968,Bishopscourt,8.0,8.0,12.0,3664,Pam Golding Properties - Southern Suburbs,29 000 000
+969,Claremont Upper,4.0,4.0,6.0,649,Upton Properties Newlands,14 995 000
+970,Bishopscourt,4.0,5.0,4.0,2782,Pam Golding Properties - Southern Suburbs,11 900 000
+971,Green Point,2.0,4.0,2.0,584,Dogon Group Sea Point - Head Office,8 950 000
+972,Newlands,2.0,3.0,2.0,575,Seeff Southern Suburbs,5 000 000
+973,Walmer Estate,4.5,6.0,4.0,311,Pam Golding Properties - Southern Suburbs,4 200 000
+974,Fresnaye,2.0,3.0,4.0,492,Glenda Gie Estates,13 000 000
+975,Llandudno,,,,1203,Atteridge Real Estate,14 900 000
+976,Maitland,2.0,5.0,2.0,184,LeGrand Properties,1 499 000
+977,Zwaanswyk,3.0,4.0,2.0,4040,Jawitz Constantia,23 000 000
+978,Bantry Bay,3.0,4.0,4.0,417,Erf Size,7 900 000
+979,Kenilworth Upper,2.0,3.0,3.0,,Sotheby's International Realty - Claremont,5 490 000
+980,Newlands,7.5,6.0,4.0,746,Upton Properties Newlands,14 995 000
+981,Bantry Bay,3.0,4.0,4.0,417,Erf Size,7 900 000
+982,Bo Kaap,2.0,4.0,,117,Dogon Group Sea Point - Head Office,2 999 000
+983,Sea Point,8.0,9.0,,,Tyson Properties Atlantic Seaboard,5 995 000
+984,Fresnaye,5.5,5.0,3.0,456,RE/MAX Living,19 950 000
+985,Constantia,4.0,4.0,,4000,Sotheby's International Realty - Tokai,9 950 000
+986,Walmer Estate,2.0,3.0,2.0,194,Pam Golding Properties - Southern Suburbs,2 950 000
+987,Penlyn Estate,3.0,5.0,1.0,,,1 598 000
+988,Camps Bay,6.0,6.0,2.0,1037,Omega Real Estate,30 990 000
+989,Bishopscourt,4.0,5.0,3.0,3985,Greeff Christie's International Real Estate - Southern Suburbs,35 000 000
+990,Tokai,3.0,3.0,4.0,482,Sotheby's International Realty - Tokai,9 800 000
+991,Observatory,1.0,3.0,2.0,225,Erf Size,2 450 000
+992,Bishopscourt,4.0,5.0,3.0,3985,Greeff Christie's International Real Estate - Southern Suburbs,35 000 000
+993,Kenilworth,2.0,3.0,3.0,247,Knight Frank,3 590 000
+994,Constantia,4.5,5.0,2.0,2043,Jawitz Constantia,9 500 000
+995,Constantia,4.0,5.0,3.0,1034,Sotheby's International Realty - Tokai,15 995 000
+996,Camps Bay,6.0,6.0,2.0,329,Omega Real Estate,29 490 000
+997,Oranjezicht,7.0,6.0,3.0,499,"Kapstadt International Properties cc, Gardens",14 835 000
+998,Green Point,3.0,4.0,3.0,,Talana Foot Real Estate,5 900 000
+999,Salt River,1.0,2.0,,158,RE/MAX Elite,1 700 000
+1000,Llandudno,3.0,4.0,4.0,1539,Atteridge Real Estate,19 500 000
+1001,Bridgetown,1.0,3.0,1.0,,RE/MAX Impact,1 190 000
+1002,Constantia,4.0,4.0,4.0,1960,Sotheby's International Realty - Tokai,26 000 000
+1003,Woodstock,1.0,3.0,,1022,Tyson Properties Atlantic Seaboard,1 700 000
+1004,Constantia,6.0,6.0,4.0,2601,Knight Frank,19 950 000
+1005,Salt River,2.0,6.0,,113,Meggar Property Brokers,1 750 000
+1006,Woodstock,1.0,3.0,,1022,Tyson Properties Atlantic Seaboard,1 750 000
+1007,Kenilworth Upper,2.0,4.0,2.0,1103,Pam Golding Properties - Southern Suburbs,7 900 000
+1008,Schaap Kraal,7.0,9.0,1.0,39423,RE/MAX In Motion (Mitchells Plain),19 999 000
+1009,Heathfield,3.0,5.0,3.0,762,"3%.Com Properties - Bellville,Parow,Goodwood",2 299 000
+1010,Schaap Kraal,2.0,4.0,,4106,RE/MAX In Motion (Mitchells Plain),3 999 000
+1011,Pelican Park,,,,201,We Trade Property - Northern Suburbs,850 000
+1012,Stonehurst Mountain Estate,6.5,6.0,6.0,1620,Stonehurst Properties,24 500 000
+1013,Tokai,3.0,3.0,,,Beachside Properties,5 692 500
+1014,Walmer Estate,1.0,2.0,,141,RE/MAX In Motion (Mitchells Plain),1 990 000
+1015,Belgravia,4.0,6.0,2.0,,Momentum International Realty - Central,2 890 000
+1016,Pinelands,4.5,6.0,8.0,,"RE/MAX, Property Associates - Pinelands",4 395 000
+1017,Bridgetown,1.0,2.0,,,RE/MAX Impact,1 199 000
+1018,Rondebosch,3.0,7.0,,404,Rawson Properties Claremont,4 850 000
+1019,Tokai,3.5,3.0,2.0,,Dogon Group Southern Suburbs,16 500 000
+1020,Belhar,1.0,2.0,1.0,,FPS Properties,479 900
+1021,Woodstock,1.0,,,160,Rawson Properties Claremont,2 200 000
+1022,Newlands,3.5,4.0,5.0,,Sotheby's International Realty - Claremont,7 995 000
+1023,Gardens,2.0,2.0,1.0,,,3 995 000
+1024,Clarkes Estate,1.0,2.0,,70,Icon Property Group,420 000
+1025,Grassy Park,2.0,3.0,1.0,,RE/MAX Impact,1 450 000
+1026,Bishopscourt,5.0,4.0,10.0,6222,Pam Golding Properties - Southern Suburbs,29 000 000
+1027,Belgravia,4.0,6.0,2.0,,Momentum International Realty - Central,2 890 000
+1028,Maitland,2.0,4.0,,743,Meggar Property Brokers,2 999 000
+1029,Claremont Upper,4.0,4.0,2.0,,Dogon Group Sea Point - Head Office,9 750 000
+1030,Wetton,1.0,2.0,1.0,156,"RE/MAX, Property Associates - Pinelands",1 300 000
+1031,Valhalla Park,1.0,2.0,2.0,,,399 999
+1032,Newlands,4.0,4.0,2.0,172,Dogon Group Sea Point - Head Office,8 250 000
+1033,Newlands,4.0,4.0,2.0,173,Dogon Group Sea Point - Head Office,7 750 000
+1034,Woodstock,12.0,12.0,5.0,425,Knight Frank,4 700 000
+1035,Claremont,2.0,3.0,,272,Property.CoZa - Atlantic Seaboard,2 450 000
+1036,Constantia,4.0,4.0,4.0,1884,Sotheby's International Realty - Tokai,28 650 000
+1037,Constantia,5.0,5.0,3.0,8095,Jawitz Constantia,44 000 000
+1038,Schaap Kraal,3.0,4.0,,538,RE/MAX Impact,2 100 000
+1039,Athlone,2.0,5.0,,,RE/MAX Impact,1 880 000
+1040,Schaap Kraal,4.0,8.0,10.0,,Diversity Real Estate,2 960 000
+1041,Bergvliet,1.5,4.0,3.0,1874,Knight Frank,7 500 000
+1042,Newlands,4.0,4.0,2.0,173,Dogon Group Sea Point - Head Office,7 750 000
+1043,Constantia,7.0,6.0,4.0,2096,Sotheby's International Realty - Tokai,19 950 000
+1044,Philippi,6.0,8.0,2.0,1241,Jawitz South East Suburbs,POA
+1045,Ferness Estate,,,,348,Law24,1 700 000
+1046,Kalk Bay,2.0,2.0,2.0,275,"RE/MAX, Premier - Claremont",3 995 000
+1047,Kenilworth Upper,3.0,3.0,2.0,453,Upton Properties Newlands,7 780 000
+1048,Maitland,4.0,5.0,,397,The Real Estate Company Cape Town,3 000 000
+1049,Fresnaye,5.5,5.0,3.0,,RE/MAX Living,34 500 000
+1050,Lansdowne,,,,934,Erf Size,3 200 000
+1051,Rondebosch East,1.0,3.0,1.0,,Diversity Real Estate,2 800 000
+1052,Newfields,1.0,5.0,3.0,,RE/MAX Elite,2 900 000
+1053,Bishopscourt Village,3.5,3.0,2.0,,Dogon Group Sea Point - Head Office,7 300 000
+1054,Schaap Kraal,,,,43000,Erf Size,7 000 000
+1055,Constantia,4.0,4.0,4.0,2107,Sotheby's International Realty - Tokai,28 650 000
+1056,Rondebosch East,1.0,4.0,1.0,,RE/MAX Impact,2 900 000
+1057,Kenilworth Upper,4.0,4.0,2.0,788,Upton Properties Newlands,12 990 000
+1058,Constantia,4.0,4.0,2.0,1827,Sotheby's International Realty - Tokai,28 650 000
+1059,Grassy Park,2.0,4.0,12.0,1100,RE/MAX Impact,2 100 000
+1060,Bishopscourt Village,3.5,3.0,2.0,,Dogon Group Sea Point - Head Office,7 300 000
+1061,Woodstock,2.0,3.0,,116,Erf Size,2 799 000
+1062,Bonteheuwel,1.0,4.0,1.0,214,Theron Property Group,199 000
